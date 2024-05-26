@@ -1,0 +1,3051 @@
+------------------------------------------------------------------------------------------------
+target> dance
+
+user>> do you play basketball
+
+current kw> basketball
+next kw> ball; method: 1st hop - 1st hop
+
+Tbot>> no i do not, i like to read and watch basketball.
+Blender>>  I used to play in high school, but now I just watch it on TV.
+
+current kw> school
+next kw> dance; method: 1st hop - 1st hop
+
+Tbot>> that is cool. i love to dance, do you?
+
+success; 2
+
+------------------------------------------------------------------------------------------------
+target> basketball
+
+user>> i am tired
+
+current kw> 
+next kw> court; method: 1st hop - 1st hop
+
+Tbot>> what are you doing in court?
+Blender>>  I am going to court to see if I can get a job. I have been working really hard.
+
+current kw> court
+next kw> basketball; method: 1st hop - 1st hop
+
+Tbot>> what kind of court case are you going to have
+Blender>>  I'm going to be a judge. I've been studying law for a long time.
+
+current kw> judge
+next kw> sports; method: 1st hop - 1st hop
+
+Tbot>> that is cool i like to play sports i like football.
+Blender>>  I like football too! I'm a big fan of the Seattle Seahawks. Do you have a favorite team?
+
+current kw> football
+next kw> guard; method: 1st hop - 1st hop
+
+Tbot>> i do not, i do not have time for a team, i am studying to be honest. i am going back to school to be an attorney.
+Blender>>  That's cool. I'm sure you'll do great. What kind of law do you want to practice?
+
+current kw> kind
+next kw> three; method: 1st hop - 1st hop
+
+Tbot>> i am a lawyer. i am a judge. i like sports.
+Blender>>  That sounds like a great job. I bet you get to meet a lot of interesting people.
+
+current kw> lot
+next kw> lotto; method: 1st hop - 2nd hop
+
+Tbot>> i bet! i am sure i would love to win i have fun doing that. what kind of music do you like?
+Blender>>  I like all kinds of music. What about you? Do you like any particular genres?
+
+current kw> kind
+next kw> three; method: 1st hop - 1st hop
+
+Tbot>> i like classical. what about you?
+Blender>>  I love classical as well. I also love jazz. What is your favorite genre?
+
+current kw> jazz
+next kw> head; method: 1st hop - 1st hop
+
+Tbot>> i love jazz. what is your favourite? i like rock music.
+Blender>>  I really like jazzy. It's so relaxing to listen to. Do you play any instruments?
+
+------------------------------------------------------------------------------------------------
+target> school
+
+user>> what are you doing
+
+current kw> do
+next kw> grammar; method: 1st hop - 1st hop
+
+Tbot>> i am doing good. i am tired from working on the grammer.
+Blender>>  That's good to hear. What are you grammy gramma up to?
+
+current kw> hear
+next kw> learn; method: 1st hop - 1st hop
+
+Tbot>> i have not told her. i am not sure what to do.
+Blender>>  I'm sorry to hear that. I'm sure she'll understand if you just tell her.
+
+current kw> tell
+next kw> admit; method: 1st hop - 1st hop
+
+Tbot>> yeah i am trying to think of what to say to her. i am a little sad she is not here
+Blender>>  I know how you feel. My grandmother passed away a few years ago and I still miss her a lot.
+
+current kw> year
+next kw> school; method: 1st hop - 1st hop
+
+Tbot>> i am sorry to here too. i have a lot of friends who are my age, i miss them.
+Blender>>  I do too. I wish I could go back in time and spend more time with them. 
+
+current kw> time
+next kw> schooltime; method: 1st hop - 1st hop
+
+Tbot>> i do too, i am in school too. i am not much. i would love to go back to school but my mom was a stay at home with my mom.
+
+success; 5
+
+------------------------------------------------------------------------------------------------
+target> movie
+
+user>> hi buddy
+
+current kw> 
+next kw> adventure; method: 1st hop - 1st hop
+
+Tbot>> hello! i am good. just finished my daily adventure. you?
+Blender>>  I am good too. I just got back from a long day of work. How was your day?
+
+current kw> day
+next kw> date; method: 1st hop - 1st hop
+
+Tbot>> good. i am a waitress at a local restaurant so i had a long night.
+Blender>>  That sounds like a lot of fun. What kind of food do you serve at the restaurant?
+
+current kw> restaurant
+next kw> corn; method: 1st hop - 1st hop
+
+Tbot>> we have a lot. i am really passionate about food. i like italian food. do you?
+Blender>>  I love italians. My favorite is Italian cuisine from Italy. What is your favorite dish?
+
+current kw> dish
+next kw> babe; method: 1st hop - 1st hop
+
+Tbot>> italian is my favorite. i love to cook.
+Blender>>  I really like pasta dishes. I love to eat it with tomato sauce and mozzarella cheese. What do you like to cook?
+
+current kw> mozzarella
+next kw> milk; method: 1st hop - 2nd hop
+
+Tbot>> i do not like to eat meat. i am a vegan so i cannot have dairy in my food.
+------------------------------------------------------------------------------------------------
+target> movie
+
+user>> hi buddy
+
+current kw> 
+next kw> adventure; method: 1st hop - 1st hop
+
+Tbot>> hey, i am doing well. what are you up to?
+Blender>>  I'm just hanging out with my dog. He's a labrador retriever. What about you?
+
+current kw> dog
+next kw> screen; method: 1st hop - 1st hop
+
+Tbot>> watching some tv. i am just hanging with my 3 cats.
+Blender>>  I love cats! What are their names? I have a cat named Luna. Do you have any pets?
+
+current kw> name
+next kw> dub; method: 1st hop - 1st hop
+
+Tbot>> i have two cats. names are alex and sally. they are named after my favorite singer bob ross.
+Blender>>  That's awesome! Bob ross is a great artist. I love his paintings.
+
+current kw> painting
+next kw> film; method: 1st hop - 1st hop
+
+Tbot>> what kind of music do you like to do?
+Blender>>  I like all kinds of music. I listen to a lot of jazz and classical. What about you?
+
+current kw> music
+next kw> soundtrack; method: 1st hop - 1st hop
+
+Tbot>> i like to listen to classical music, but i like to sing too. i like all types of music.
+Blender>>  I love to sing as well. I am a singer and songwriter. Do you have any other hobbies?
+
+current kw> songwriter
+next kw> music; method: 1st hop - 1st hop
+
+Tbot>> i love to write and dance, but mostly i just love to eat.
+Blender>>  I enjoy dancing as well! What kind of dancing do you enjoy the most? 
+
+current kw> dancing
+next kw> entertainment; method: 1st hop - 1st hop
+
+Tbot>> i enjoy singing in the shower. i love dancing in the park and singing too.
+Blender>>  That That sounds like fun! Do you perform in front of people or just for fun?
+
+current kw> people
+next kw> movie; method: 1st hop - 1st hop
+
+Tbot>> just for fun. i also like to dance in my spare time.
+Blender>>  I like to do it for fun as well, but I'm not very good at it.
+
+------------------------------------------------------------------------------------------------
+target> party
+
+user>> are you free today
+
+current kw> today
+next kw> present; method: 1st hop - 2nd hop
+
+Tbot>> yes, i am free. i am going to get some gifts for my grandchildren.
+Blender>>  That's great! What are you getting them?  I'm sure they will love it!
+
+current kw> get
+next kw> gathering; method: 1st hop - 1st hop
+
+Tbot>> i am getting some for my kids and husband.
+Blender>>  That is so nice of you.  I bet they will really enjoy it.  What kind of gifts are they getting?
+
+current kw> gift
+next kw> birthday; method: 1st hop - 1st hop
+
+Tbot>> we are getting a piano set for our honeymoon.
+Blender>>  That sounds like a lot of fun.  Do you know what you are getting them yet?
+
+current kw> fun
+next kw> party; method: 1st hop - 1st hop
+
+Tbot>> no. i do not. they are going to be in paris.
+Blender>>  Oh, that will be so fun!  I hope you have a great time.  Is it your first time going to Paris?
+
+current kw> time
+next kw> party; method: 1st hop - 1st hop
+
+Tbot>> yes it is. i hope they have a good time.
+Blender>>  Yes, it will be my first time there as well.  I am looking forward to it.
+
+current kw> time
+next kw> party; method: 1st hop - 1st hop
+
+Tbot>> i am going to have a party in pariss! i love it.
+
+success; 6
+
+------------------------------------------------------------------------------------------------
+target> elections
+
+user>> what are you doing tonight
+
+current kw> tonight
+next kw> evening; method: 1st hop
+
+Tbot>> i am cooking dinner, how about you?
+Blender>>  I am going to the beach.  I love the water.  What are you cooking?
+
+current kw> beach
+next kw> ball; method: 1st hop - 2nd hop
+
+Tbot>> i love to cook, i love to eat seafood
+Blender>>  I love seafish too.  Do you have a favorite type of fish to cook?
+
+current kw> fish
+next kw> poll; method: 1st hop - 2nd hop
+
+Tbot>> i like to cook and bake. i have a small bakery near by that is where i work
+Blender>>  I like to bake as well.  It is a great way to relax after a long day of work.
+
+current kw> day
+next kw> elect; method: 1st hop - 2nd hop
+
+Tbot>> i would like to eat fish and bake too. i have been cooking for my family for the past few years
+Blender>>  I have been baking and cooking since I was a child.  I love it.  What is your favorite thing to make?
+
+current kw> child
+next kw> majority; method: 1st hop - 2nd hop
+
+Tbot>> i do not have a lot of time for it. i work i like to travel. i am studying for school and am a mother of three kids.
+------------------------------------------------------------------------------------------------
+target> health
+
+user>> good morning
+
+current kw> morning
+next kw> general; method: 1st hop - 1st hop
+
+Tbot>> good morning! how are you?
+Blender>>  I'm doing well, thank you. How about yourself? Any big plans for the weekend?
+
+current kw> plan
+next kw> medical; method: 1st hop - 1st hop
+
+Tbot>> i am going to see my mom and dad today, they are visiting from tanzania.
+Blender>>  That sounds like a lot of fun! I hope you have a great time. Where are they going?
+
+current kw> fun
+next kw> mental; method: 1st hop - 1st hop
+
+Tbot>> they are in kansas. i am going with my two sons. i love to travel.
+Blender>>  That's awesome! I've never been to Kansas, but I've always wanted to go.
+
+current kw> go
+next kw> mental; method: 1st hop - 1st hop
+
+Tbot>> it is. i am not really sure i just want to go to japan but i have never been.
+Blender>>  Japan would be so cool. I would love to go there one day. Have you ever been?
+
+------------------------------------------------------------------------------------------------
+target> elections
+
+user>> what are you doing tonight
+
+current kw> tonight
+next kw> evening; method: 1st hop
+
+Tbot>> i am watching a movie and you?
+Blender>>  I am going to watch a movie with my girlfriend. What movie are you going to see?
+
+current kw> movie
+next kw> prop; method: 1st hop - 2nd hop
+
+Tbot>> i love movies. i am going for a walk in the park with my mom.
+Blender>>  I love that movie! It's one of my favorites. What's your favorite movie?
+
+current kw> movie
+next kw> prop; method: 1st hop - 2nd hop
+
+Tbot>> i like movies too. i am actually going to be married to my high school sweetheart
+Blender>>  That's so sweet! I hope you have a long and happy marriage. What do you like to do for fun?
+
+current kw> marriage
+next kw> vow; method: 1st hop - 2nd hop
+
+Tbot>> i am not married, i just like to spend time with my dog. he is a great dog.
+Blender>>  That sounds like a lot of fun. I love dogs. What kind of dog do you have?
+
+current kw> fun
+next kw> party; method: 1st hop - 2nd hop
+
+Tbot>> i have a lab and a poodle. he is really cute. what kind of work do
+Blender>>  I work in an office, but I also volunteer at the animal shelter on the weekends.
+
+current kw> office
+next kw> ballot; method: 1st hop - 1st hop
+
+Tbot>> that is great! i am a retired teacher. what do you do for a living?
+Blender>>  I'm a financial analyst. What do you like to do in your spare time?
+
+current kw> time
+next kw> election; method: 1st hop - 1st hop
+
+Tbot>> i love to help people in their homes. i love to read and volunteer at animal shelters.
+Blender>>  That's great! I love animals, especially puppies. Do you have any pets?
+
+current kw> puppy
+next kw> seal; method: 1st hop
+
+Tbot>> i do not. i am not allowed pets. i wish i did, but my parents would kill me if i did.
+Blender>>  That That's too bad. I'm sorry to hear that. Why are you not allowed to have any?
+
+------------------------------------------------------------------------------------------------
+target> health
+
+user>> good morning
+
+current kw> morning
+next kw> general; method: 1st hop - 1st hop
+
+Tbot>> good morning! i am a general of the united states army.
+Blender>>  Good morning! I am a member of the United States Army. What branch are you in?
+
+current kw> morning
+next kw> general; method: 1st hop - 1st hop
+
+Tbot>> i am a soldier in the us army. i am in the navy
+Blender>>  That's awesome! I'm in the Air Force myself. What kind of work do you do in the Navy?
+
+current kw> work
+next kw> care; method: 1st hop - 1st hop
+
+Tbot>> i work for the navy. i have a wife, i love her. she is my best friend.
+Blender>>  That is great! I love my wife too. We have been together for 10 years now.
+
+current kw> wife
+next kw> aglaea; method: 1st hop - 1st hop
+
+Tbot>> i love to travel and read. i read aglacindia is my favorite. what about you?
+Blender>>  I love to read too! I am a big fan of Stephen King. Have you read any of his books?
+
+current kw> book
+next kw> social; method: 1st hop - 1st hop
+
+Tbot>> i have not, i do not read much, i spend do not have time for it
+Blender>>  I understand that. He is one of my favorite authors. What do you do for a living?
+
+current kw> living
+next kw> health; method: 1st hop - 1st hop
+
+Tbot>> i work in a doctors office. i work in it, but i am not rich.
+Blender>>  That's cool. I work in an office as well. What kind of doctor do you want to be?
+
+current kw> doctor
+next kw> health; method: 1st hop - 1st hop
+
+Tbot>> i do not work but i want to. i like to eat healthy and exercise.
+Blender>>  That That's great. Do you have any hobbies that you like to do in your spare time?
+
+current kw> hobby
+next kw> jogging; method: 1st hop - 1st hop
+
+Tbot>> i like to go for a run. i am a big runner. i also like to hike.
+Blender>>  I love to go hiking too. It's one of my favorite things to do. 
+
+------------------------------------------------------------------------------------------------
+target> fashion
+
+user>> where do you work
+
+current kw> work
+next kw> fashion; method: 1st hop - 1st hop
+
+Tbot>> i work in fashion. i design clothes for people.
+
+success; 1
+
+------------------------------------------------------------------------------------------------
+target> cancer
+
+user>> what is your profession
+
+current kw> profession
+next kw> medicine; method: 1st hop - 1st hop
+
+Tbot>> i am a doctor, but i also like to take photos
+Blender>>  I am a photographer as well. What kind of pictures do you take? 
+
+current kw> kind
+next kw> cell; method: 1st hop - 1st hop
+
+Tbot>> i love taking pictures of my family
+Blender>>  That's cool. Do you have a lot of pictures of your family or just a few?
+
+current kw> family
+next kw> lumpsucker; method: 1st hop - 2nd hop
+
+Tbot>> just a few. i am not very good at taking pictures
+Blender>>  I'm not either, but I enjoy taking pictures. It's one of my favorite things to do in my spare time.
+
+current kw> thing
+next kw> c; method: 1st hop - 1st hop
+
+Tbot>> what do you do for a living?
+Blender>>  I work in a call center. It pays the bills, but it's not what I want to do for the rest of my life. How about you?
+
+current kw> center
+next kw> stage; method: 1st hop - 2nd hop
+
+Tbot>> i am a stay at home mom, i am a nurse so i have been in the hospital a lot.
+Blender>>  I bet that's a lot of work. Do you have any hobbies you like to do?
+
+current kw> hobby
+next kw> garden; method: 1st hop - 2nd hop
+
+Tbot>> i love to garden and cook. i like to make a lot.
+Blender>>  That's awesome! I love to cook as well. What's your favorite thing to cook?
+
+current kw> thing
+next kw> c; method: 1st hop - 1st hop
+
+Tbot>> i do not cook much. i like music, but i do not i do like to play guitar.
+Blender>>  I love music! What kind of music do you play? I play the drums. 
+
+current kw> kind
+next kw> cell; method: 1st hop - 1st hop
+
+Tbot>> i play the cello. i am a violinist. i also love to sing.
+Blender>>  That is awesome! Do you play in a band or just for fun? I have always wanted to learn how to play the violin.
+
+------------------------------------------------------------------------------------------------
+target> music
+
+user>> do you want some food
+
+current kw> food
+next kw> salsa; method: 1st hop - 1st hop
+
+Tbot>> sure. i am hungry. i have been eating salsa all day.
+Blender>>  Salsa is so good.  I love it.  What kind do you like?
+
+current kw> kind
+next kw> music; method: 1st hop - 1st hop
+
+Tbot>> i like to listen to music while i eat. what about you?
+
+success; 2
+
+------------------------------------------------------------------------------------------------
+target> gaming
+
+user>> what do you like to eat
+
+current kw> like
+next kw> game; method: 1st hop - 1st hop
+
+Tbot>> anything that is not pizza
+Blender>>  I love pizza, especially with extra cheese and pepperoni.  What about you?
+
+current kw> pizza
+next kw> peel; method: 1st hop - 2nd hop
+
+Tbot>> i like all kinds of food, i do not eat meat though
+Blender>>  I don't eat meat either, but I do love a good veggie pizza.
+
+current kw> pizza
+next kw> peel; method: 1st hop - 2nd hop
+
+Tbot>> i am an artist, what is your favorite food?
+Blender>>  I really like Italian food, especially pasta.  Do you have a favorite?
+
+current kw> food
+next kw> seed; method: 1st hop - 1st hop
+
+Tbot>> yes, i do, i am a vegan, i eat a lot of italian food.
+Blender>>  I love pasta!  It's one of my favorite foods to eat.  I love how it can be made with so many different ingredients like vegetables, meats, and condiments.
+
+current kw> food
+next kw> seed; method: 1st hop - 1st hop
+
+Tbot>> i do not like veggies but love meat, i love veggies too.
+Blender>>  I do too!  Veggies are so versatile.  There are so many ways to prepare them!
+
+current kw> way
+next kw> ninja; method: 1st hop - 2nd hop
+
+Tbot>> i love veggies. i like to make them with veggies.
+Blender>>  I love them too.  My favorite is broccoli.  Do you have a favorite vegetable?
+
+current kw> favorite
+next kw> internet; method: 1st hop - 2nd hop
+
+Tbot>> i like to cook with it, but i am not a fan of vegetables.
+Blender>>  I don't like most vegetables, but I do like tofu.  It's a good source of protein.
+
+current kw> vegetable
+next kw> chip; method: 1st hop - 2nd hop
+
+Tbot>> i have a hard time with veggies because i am allergic to shellfish.
+Blender>>  I'm sorry to hear that.  Have you tried any other types of seafood?
+
+------------------------------------------------------------------------------------------------
+target> addiction
+
+user>> which is your favourite movie
+
+current kw> movie
+next kw> coke; method: 1st hop - 2nd hop
+
+Tbot>> i do not really like movies. i like coke though.
+Blender>>  I like Dr. Pepper the best.  What is your favorite soda?
+
+current kw> soda
+next kw> coke; method: 1st hop - 2nd hop
+
+Tbot>> i like coors, but i do not drink soda.
+Blender>>  I love coors.  It is one of the best selling soft drinks in the US.
+
+current kw> drink
+next kw> medicine; method: 1st hop - 1st hop
+
+Tbot>> i am a scientist, so i do like soda too.
+Blender>>  I am not a big soda drinker, but I do like Dr Pepper.
+
+current kw> drinker
+next kw> alcoholic; method: 1st hop - 2nd hop
+
+Tbot>> i do not like soda. i am an alcoholic, and... like i said, i do
+Blender>>  I'm sorry to hear that.  Have you ever tried Dr. Pepper?  It's made by PepsiCo.
+
+current kw> try
+next kw> pain; method: 1st hop - 2nd hop
+
+Tbot>> i have not, but i am sure i will one day.
+Blender>>  It's my favorite soft drink.  It was created in 1885 by a pharmacist named Charles Alderton.
+
+current kw> drink
+next kw> medicine; method: 1st hop - 1st hop
+
+Tbot>> wow, that is interesting. i like the soda, but i have not tried the medicine
+Blender>>  It was first introduced in Waco, Texas in 1904.  I haven't tried it either.
+
+current kw> try
+next kw> pain; method: 1st hop - 2nd hop
+
+Tbot>> i am glad you are not a doctor. i have never heard of it.
+Blender>>  It It is a carbonated soft drink produced by PepsiCo.
+
+current kw> drink
+next kw> medicine; method: 1st hop - 1st hop
+
+Tbot>> i have never had soda. i drink a lot of coffee though
+Blender>>  I like coffee too.  It is one of the most popular beverages in the world.
+
+------------------------------------------------------------------------------------------------
+target> farming
+
+user>> are you married
+
+current kw> marry
+next kw> wife; method: 1st hop - 2nd hop
+
+Tbot>> i am not married. i have a wife and two kids.
+Blender>>  I am married and we have two kids as well.  Do you have any hobbies?
+
+current kw> hobby
+next kw> gardening; method: 1st hop - 1st hop
+
+Tbot>> i love gardening. i have been trying to get my wife and i to get a house in the country.
+
+success; 2------------------------------------------------------------------------------------------------
+target> smartwatch
+
+user>> do you have kids
+
+current kw> kid
+next kw> toy; method: 1st hop - 2nd hop
+
+Tbot>> i do not. i am a single mom.
+Blender>>  I am sorry to hear that. I am sure you are doing a great job though. 
+
+current kw> job
+next kw> touch; method: 1st hop - 2nd hop
+
+Tbot>> thank you. i have a son who just graduated from college. he is in the 3rd grade.
+Blender>>  That is great. I bet he is so proud of you. I hope he does well in school.
+
+current kw> school
+next kw> portable; method: 1st hop - 2nd hop
+
+Tbot>> thanks. i am in college. i hope he likes reading too.
+Blender>>  I hope so too. Reading is a great way to pass the time. What are you studying?
+
+current kw> time
+next kw> watch; method: 1st hop - 1st hop
+
+Tbot>> i am studying to be a teacher.
+Blender>>  That's great. What grade do you want to teach? I am sure you will do great.
+
+current kw> grade
+next kw> measure; method: 1st hop - 2nd hop
+
+Tbot>> i want to be an english teacher. i am reading the bible.
+Blender>>  That is great. I bet you will be a great teacher. I hope you enjoy it.
+
+current kw> teacher
+next kw> board; method: 1st hop - 2nd hop
+
+Tbot>> i hope so. what is your favorite book?
+Blender>>  I love the Bible. It is my favorite book of all time. What is yours?
+
+current kw> time
+next kw> watch; method: 1st hop - 1st hop
+
+Tbot>> i like the bible too. i love the bible. i have been reading it since i was a little girl
+Blender>>  I have read it many times. I think it is one of the most influential books in the world.
+
+current kw> time
+next kw> watch; method: 1st hop - 1st hop
+
+Tbot>> i have a hard time trusting anyone. i do not really have time for it. i work alot, i have kids, but i do like reading
+Blender>>  I understand that. I am the same way. I don't have a lot of free time either.
+
+------------------------------------------------------------------------------------------------
+target> book
+
+user>> what is your name
+
+current kw> name
+next kw> book; method: 1st hop - 1st hop
+
+Tbot>> my name is bookworm, what about you?
+Blender>>  I am not sure what that is, but I am sure it is an interesting name.  What do you do for a living?
+
+current kw> name
+next kw> book; method: 1st hop - 1st hop
+
+Tbot>> i am a teacher, i am a english teacher.
+Blender>>  That is great.  I bet you have a lot of fun teaching.  Do you enjoy it?
+
+current kw> fun
+next kw> reading; method: 1st hop - 1st hop
+
+Tbot>> i do, i love it. i am reading a book now, do you like reading?
+
+success; 3
+
+------------------------------------------------------------------------------------------------
+target> climate
+
+user>> i need some time off
+
+current kw> time
+next kw> paleoclimate; method: 1st hop - 1st hop
+
+Tbot>> i can not stand the taste of meat.
+Blender>>  I know what you mean.  I'm not a big meat eater either.
+
+current kw> meat
+next kw> heat; method: 1st hop - 1st hop
+
+Tbot>> i know, i am going to college, i have a degree in business
+Blender>>  That is great.  What kind of business are you going to be studying?
+
+current kw> business
+next kw> ecosystem; method: 1st hop - 2nd hop
+
+Tbot>> i am studying to be a software engineer. i like to make connections.
+Blender>>  That sounds like a great field to get into.  Do you have a job lined up?
+
+current kw> job
+next kw> place; method: 1st hop - 2nd hop
+
+Tbot>> i work at a library. what do you do?
+Blender>>  I work in a call center.  It is a lot of work, but it pays the bills.
+
+current kw> center
+next kw> mood; method: 1st hop - 1st hop
+
+Tbot>> i have been in the job market for a while. i am a writer. i write for a living.
+Blender>>  That's awesome.  I bet you have some great stories to tell.  What kind of stories do you write?
+
+current kw> story
+next kw> situation; method: 1st hop - 2nd hop
+
+Tbot>> i do. i write about the stock market and politics. i love to write about it.
+Blender>>  That sounds interesting.  Do you have a website for your blog?  I'd love to read your work.
+
+current kw> blog
+next kw> slang; method: 1st hop - 2nd hop
+
+Tbot>> i write about politics. i like to use my phone for my blog
+Blender>>  I would love to check it out.  Is it a blog about anything in particular?
+
+current kw> blog
+next kw> slang; method: 1st hop - 2nd hop
+
+Tbot>> no i just like to blog about my personal life.
+Blender>>  I see.  What kind of blog do you write about?  What is it about?
+
+------------------------------------------------------------------------------------------------
+target> inflation
+
+user>> do you have a credit card
+
+current kw> credit
+next kw> finance; method: 1st hop - 1st hop
+
+Tbot>> i do not have a card. i work in finance.
+Blender>>  I do not either, but I do have a debit card.  I use it to buy groceries and pay my bills.
+
+current kw> grocery
+next kw> market; method: 1st hop - 2nd hop
+
+Tbot>> i wish i could, but i do not like to spend money on groceries. i like to shop on the internet.
+Blender>>  I understand that.  It is so much easier to use the internet these days.
+
+current kw> internet
+next kw> fictitious; method: 1st hop - 2nd hop
+
+Tbot>> i love shopping online and buying things. i am also in college and have not paid my debts yet.
+Blender>>  I am in college as well.  What are you studying?  I am studying accounting.
+
+current kw> accounting
+next kw> cost; method: 1st hop - 2nd hop
+
+Tbot>> i am going to be a doctor. i want to be one.
+Blender>>  That's great!  I wish you the best of luck.  Do you know what you want to specialize in?
+
+current kw> luck
+next kw> computing; method: 1st hop - 2nd hop
+
+Tbot>> yes, i am studying computer science. i want the computer science degree.
+Blender>>  That is a great field to get into.  I'm sure you will do great.  Good luck!
+
+current kw> field
+next kw> growth; method: 1st hop - 2nd hop
+
+Tbot>> thanks. i am sure i will do well. i hope so!
+Blender>>  You will.  You have to believe in yourself.  That is the only thing that will get you there.
+
+current kw> thing
+next kw> variable; method: 1st hop - 2nd hop
+
+Tbot>> thanks. i am a teacher. what do you do?
+Blender>>  I work in IT.  What grade do you teach?  Do you enjoy your job?
+
+current kw> job
+next kw> wage; method: 1st hop - 2nd hop
+
+Tbot>> i teach high school english education.
+Blender>>  I teach 4th grade.  I love it.  It's a lot of work, but it's rewarding.
+
+------------------------------------------------------------------------------------------------
+target> psychology
+
+user>> do you have ac at your house
+
+current kw> house
+next kw> study; method: 1st hop - 1st hop
+
+Tbot>> yes, i have ac. i am studying for a test.
+Blender>>  That's good. I hope you do well on your test. What are you studying?
+
+current kw> test
+next kw> psychometrics; method: 1st hop - 1st hop
+
+Tbot>> i am studying psychometics. i am taking a year off before i start college.
+Blender>>  That sounds like a good idea. I'm sure you'll do great. What do you want to do when you graduate?
+
+current kw> idea
+next kw> introjection; method: 1st hop - 1st hop
+
+Tbot>> i want to be a doctor. i want to save up for a better future.
+Blender>>  That is a great goal. I wish you the best of luck. What kind of doctor are you hoping to be?
+
+current kw> luck
+next kw> phenomenon; method: 1st hop - 2nd hop
+
+Tbot>> i have a phd in psychology, i am hoping to become a pediatrician.
+
+success; 4
+
+------------------------------------------------------------------------------------------------
+target> autumn
+
+user>> did you like the gift
+
+current kw> gift
+next kw> christmas; method: 1st hop - 2nd hop
+
+Tbot>> i did! it was a big surprise. i love surprises.
+Blender>>  I bet you did.  What was it?  I hope it was something you really needed.
+
+current kw> do
+next kw> turn; method: 1st hop - 1st hop
+
+Tbot>> i was able to get a new car!! i had to drive for a new one!
+Blender>>  That's awesome!  What kind of car did you get?  Did you get a good deal?
+
+current kw> deal
+next kw> england; method: 1st hop - 2nd hop
+
+Tbot>> it was a chevy. it was the last one i got.
+Blender>>  I love Chevy's!  I have a Chevy Silverado and I love it!  How long have you had it?
+
+current kw> love
+next kw> falling; method: 1st hop - 1st hop
+
+Tbot>> i wish i could afford it. my dad is a salesman... was an old chevy salesman.
+Blender>>  I'm sorry to hear that.  I hope you can save up and get one soon!
+
+current kw> hear
+next kw> bear; method: 1st hop - 2nd hop
+
+Tbot>> i love my dad, he retired a few years ago. he is a mechanic and i work with trucks i bet he is gone.
+Blender>>  That I'm sure he's in a better place now.  Do you have any hobbies?
+
+current kw> hobby
+next kw> fancy; method: 1st hop - 1st hop
+
+Tbot>> no, i am not rich. i do not i am a very poor. i just like to much about to be honest
+Blender>>  I see.  What do you like to do for fun?  I like to play video games.
+
+current kw> video
+next kw> britain; method: 1st hop - 2nd hop
+
+Tbot>> i like to write poetry. i i have a little sister. she is in a writer. i write short and very good at italian.
+Blender>>  That's awesome.  I wish I had more time to write.  How long have you been writing?
+
+current kw> time
+next kw> autumntime; method: 1st hop - 1st hop
+
+Tbot>> ! i am in the gifted program for art program for a living, i like to read.
+Blender>>  I've been writing since I was a kid.  It's one of my favorite things to do.
+
+------------------------------------------------------------------------------------------------
+target> chatbot
+
+user>> i am a skilled craftsman
+
+current kw> craftsman
+next kw> mastercraftsman; method: 1st hop
+
+Tbot>> i am not a master craftsman, i am a master craftyman
+Blender>>  I love crafts.  I love to make jewelry.  What kind of crafts do you do?
+
+current kw> kind
+next kw> behaviour; method: 1st hop - 2nd hop
+
+Tbot>> i do not have a lot of free time. i like to spend my time with my wife and kids
+Blender>>  I see.  Do you have any hobbies that you like to do in your free time?
+
+current kw> hobby
+next kw> genus; method: 1st hop - 2nd hop
+
+Tbot>> yes i like reading and cooking
+Blender>>  I like to read as well.  My favorite author is Stephen King.  Have you read any of his books?
+
+current kw> book
+next kw> engage; method: 1st hop - 2nd hop
+
+Tbot>> no, i am more of a book worm i read to my kids.
+Blender>>  I have not.  I have heard good things about it though.  What is it about?
+
+current kw> thing
+next kw> system; method: 1st hop - 2nd hop
+
+Tbot>> i am trying to get my kids into reading, but i do not have much time for it.
+Blender>>  It It is a great book.  It is set in the 1940's and 1950's.  You should give it a try.
+
+current kw> book
+next kw> engage; method: 1st hop - 2nd hop
+
+Tbot>> i like to learn new things.
+Blender>>  I will have to check it out.  Thanks for the recommendation.  Do you have any other hobbies?
+
+current kw> hobby
+next kw> genus; method: 1st hop - 2nd hop
+
+Tbot>> i love to learn about the different types of plants and animals
+Blender>>  I love to read as well.  I also like to play video games.  What about you?
+
+current kw> video
+next kw> videochat; method: 1st hop - 2nd hop
+
+Tbot>> i do. i like to watch movies.
+Blender>>  I like movies too!  What is your favorite movie of all time?  Mine is The Godfather Part II.
+
+------------------------------------------------------------------------------------------------
+target> vacation
+
+user>> i work at a finance company
+
+current kw> finance
+next kw> term; method: 1st hop - 1st hop
+
+Tbot>> i am studying business. what are your hobbies?
+Blender>>  I like to play video games.  What kind of business are you studying in business?
+
+current kw> business
+next kw> tourist; method: 1st hop - 1st hop
+
+Tbot>> i love to garden and read. i like to paint. i am a city councilman.
+Blender>>  That's awesome!  I love gardening as well.  Do you have a favorite garden?
+
+current kw> garden
+next kw> home; method: 1st hop - 1st hop
+
+Tbot>> i do not have one. i like going to the beach.
+Blender>>  I love the beaches.  I live in Florida so we have a lot of beaches here.  Where do you live?
+
+current kw> beach
+next kw> vacations; method: 1st hop - 1st hop
+
+Tbot>> i live in new york. do you have any hobbies?
+Blender>>  I like to play video games.  What do you like to do in your spare time?
+
+current kw> time
+next kw> vacation; method: 1st hop - 1st hop
+
+Tbot>> i love to go on vacation. i am a big video game nerd. i like to go to the movies on the weekends.
+
+success; 5
+
+------------------------------------------------------------------------------------------------
+target> nasa
+
+user>> i want to become a space explorer
+
+current kw> space
+next kw> nasa; method: 1st hop - 1st hop
+
+Tbot>> that sounds exciting. i am an accountant at nasa.
+
+success; 1
+
+------------------------------------------------------------------------------------------------
+target> tradition
+
+user>> i am going to a marriage
+
+current kw> marriage
+next kw> ritual; method: 1st hop - 1st hop
+
+Tbot>> oh, i am not sure what that is.
+Blender>>  It is when two people get engaged and live together for a year or two before getting married.
+
+current kw> year
+next kw> old; method: 1st hop - 1st hop
+
+Tbot>> oh, that sounds nice. i am only 21.
+Blender>>  I am sure you will have a great time.  Are you going to the wedding?
+
+current kw> wedding
+next kw> ritual; method: 1st hop - 1st hop
+
+Tbot>> yes, i am. i am a student and my parents are too.
+Blender>>  Yes, I am going to be the best man at the wedding.  I can't wait!
+
+current kw> wedding
+next kw> ritual; method: 1st hop - 1st hop
+
+Tbot>> oh. i have never been to a wedding before. i am too busy with my family.
+Blender>>  I hope you have a good time!  I'm sure it will be a lot of fun!
+
+current kw> fun
+next kw> birthday; method: 1st hop - 1st hop
+
+Tbot>> i will try to have fun. my parents and i are planning a wedding for my sister and i
+Blender>>  That's great!  What kind of food are you serving?  I love food!
+
+current kw> food
+next kw> foodways; method: 1st hop - 1st hop
+
+Tbot>> i am having italian food! my family is from saudi arabia, so italian!
+Blender>>  That sounds delicious!  Have you ever been to Saudi Arabia?  
+
+current kw> sound
+next kw> experience; method: 1st hop - 2nd hop
+
+Tbot>> i have not. i have never been there before. what do you do for a living?
+Blender>>  I work in IT.  What about you?  Do you have any hobbies or interests?
+
+current kw> hobby
+next kw> dance; method: 1st hop - 2nd hop
+
+Tbot>> i love to dance, but i am a pretty boring person. i am not very good at it
+Blender>>  I love dancing too!  What kind of dancing do you like to do?
+
+------------------------------------------------------------------------------------------------
+target> money
+
+user>> i need some more sleep
+
+current kw> sleep
+next kw> time; method: 1st hop - 1st hop
+
+Tbot>> i need to go to work soon. i am tired.
+Blender>>  I know how you feel. I'm exhausted all the time. What do you do for work?
+
+current kw> time
+next kw> money; method: 1st hop - 1st hop
+
+Tbot>> i work at a bank. i want to be a music teacher.
+Blender>>  That's cool. I work in a bank as well. What kind of music do you want to teach?
+
+current kw> bank
+next kw> money; method: 1st hop - 1st hop
+
+Tbot>> i want to make money. i love music. i am in school now. i want a music teaching job.
+
+success; 3
+
+------------------------------------------------------------------------------------------------
+target> corruption
+
+user>> it is hot out side
+
+current kw> side
+next kw> politics; method: 1st hop - 2nd hop
+
+Tbot>> i am a big fan of politics. i have been a politician for many years.
+Blender>>  I am too. I am a registered public affairs liaison.
+
+current kw> affair
+next kw> adultery; method: 1st hop - 1st hop
+
+Tbot>> i have been to politics office
+Blender>>  I have been involved in politics since I was a teenager. It is a lot of fun.
+
+current kw> politic
+next kw> politics; method: 1st hop - 2nd hop
+
+Tbot>> i like to travel, but i am not a fan of it. i am a teacher so i do not have a lot to do with politics
+Blender>>  I understand that. It can be very stressful at times. What grade do you teach?
+
+current kw> time
+next kw> motion; method: 1st hop - 1st hop
+
+Tbot>> i am a high school teacher, what do you do?
+Blender>>  I teach high school chemistry. I love it. What do you like to do in your spare time?
+
+current kw> time
+next kw> motion; method: 1st hop - 1st hop
+
+Tbot>> i love to draw and read in my spare time. i also enjoy singing in my free time.
+Blender>>  That's awesome! I love to read as well. What kind of books do you read?
+
+current kw> book
+next kw> storage; method: 1st hop - 1st hop
+
+Tbot>> i like to read books about the stock market.
+Blender>>  I love reading too! I read a lot of science fiction and fantasy books. Do you have a favorite genre?
+
+current kw> book
+next kw> storage; method: 1st hop - 1st hop
+
+Tbot>> i do. i like to cook and like to draw in my down time when i am not working.
+Blender>>  I like to bake too. I'm not very good at it, but I enjoy it. What's your favorite thing to cook?
+
+current kw> thing
+next kw> judicial; method: 1st hop - 2nd hop
+
+Tbot>> i love to bake, especially cakes. i love to eat too.
+Blender>>  I enjoy baking as well. It's a great way to spend time with friends and family.
+
+------------------------------------------------------------------------------------------------
+target> software
+
+user>> let's go to beach
+
+current kw> let
+next kw> net; method: 1st hop - 1st hop
+
+Tbot>> i would love to! i am going to the beach tomorrow.
+Blender>>  That sounds like a lot of fun! I hope you have a great time! Where are you going?
+
+current kw> lot
+next kw> pound; method: 1st hop - 1st hop
+
+Tbot>> i am going with my husband and kids, we love the beach.
+Blender>>  That's great! I love going to beaches as well. They're so peaceful and relaxing.
+
+current kw> beach
+next kw> dolphin; method: 1st hop - 1st hop
+
+Tbot>> yes they are, i love to swim and play with my dolphin.
+Blender>>  I love swimming too! It's one of my favorite things to do in the summer.
+
+current kw> thing
+next kw> cheese; method: 1st hop - 1st hop
+
+Tbot>> i have a huge love for the beach, but i hate the cold weather.
+Blender>>  I do too. I like the cooler weather. It makes me feel more energetic.
+
+current kw> weather
+next kw> program; method: 1st hop - 1st hop
+
+Tbot>> i love the cold. i have a passion for the outdoors and i love the beach.
+Blender>>  I agree. The beach is my favorite place to be. It's so relaxing.
+
+current kw> place
+next kw> patch; method: 1st hop - 1st hop
+
+Tbot>> do you like the beach? what is your favorite season?
+Blender>>  I love summer. I love the sunshine and the breeze. What about you?
+
+current kw> breeze
+next kw> soft; method: 1st hop - 1st hop
+
+Tbot>> i do. i love summer. i like fall and winter. i am very excited about it.
+Blender>>  I do too. I like the cooler weather. It makes me feel more at home.
+
+current kw> home
+next kw> linux; method: 1st hop - 1st hop
+
+Tbot>> i am not a fan of the cold weather. i love the cooler months, but i am more of a fan when it is warm.
+Blender>>  I'm the same way. I don't like the cold at all. I can't stand the cold.
+
+------------------------------------------------------------------------------------------------
+target> hospital
+
+user>> i am playing football
+
+current kw> football
+next kw> stitch; method: 1st hop - 1st hop
+
+Tbot>> i like to read books and watch movies.
+Blender>>  That's cool. What kind of movies do you like? I like action and comedies.
+
+current kw> movie
+next kw> stitch; method: 1st hop - 1st hop
+
+Tbot>> i love romantic comedies. i like the musicals.
+Blender>>  I've never seen it, but I've heard good things. What's your favorite movie?
+
+current kw> movie
+next kw> stitch; method: 1st hop - 1st hop
+
+Tbot>> i am not into movies. i like romantic comedie, but my favorite is the tale of genii.
+Blender>>  I love that movie! I think it was directed by Daniel Day-Lewis.
+
+current kw> movie
+next kw> stitch; method: 1st hop - 1st hop
+
+Tbot>> i have never heard of that one. i am a bit of a romantic. i like scary movies.
+Blender>>  It It's a great movie! It was released in 1997 and it's one of the best-selling films of all time!
+
+current kw> movie
+next kw> stitch; method: 1st hop - 1st hop
+
+Tbot>> i like to watch those too. i have been to many movies.
+Blender>>  I've never been to a movie theatre, but I'd love to go one day. What's your favorite movie?
+
+current kw> theatre
+next kw> auditorium; method: 1st hop - 2nd hop
+
+Tbot>> i am a big fan of the conjuring series.
+Blender>>  I haven't seen that one yet. I'll have to check it out. Have you seen any other scary movies?
+
+current kw> movie
+next kw> stitch; method: 1st hop - 1st hop
+
+Tbot>> i have seen it. i love to read, but i have never seen it
+Blender>>  I love horror movies! I think they're my favorite genre of movies. Do you have a favorite?
+
+current kw> movie
+next kw> stitch; method: 1st hop - 1st hop
+
+Tbot>> no i do not like horror movies but i do love reading. i love music and have a lot of books.
+Blender>>  I like to read too. What kind of books do you like? I'm a big Stephen King fan.
+
+------------------------------------------------------------------------------------------------
+target> amazon
+
+user>> let's go for a walk
+
+current kw> walk
+next kw> go; method: 1st hop - 2nd hop
+
+Tbot>> okay. i will go first.
+Blender>>  I'm not sure what you mean by that, but I hope you have a good walk!
+
+current kw> walk
+next kw> go; method: 1st hop - 2nd hop
+
+Tbot>> i just want to go for some time alone
+Blender>>  Oh, I see. Well, I'm sure you'll have a great time. It's always nice to be alone sometimes.
+
+current kw> time
+next kw> amazonian; method: 1st hop - 1st hop
+
+Tbot>> yes, i hope you enjoy it here.
+Blender>>  I will, thank you. I'm looking forward to it. I've never been on a cruise before.
+
+current kw> cruise
+next kw> ship; method: 1st hop - 2nd hop
+
+Tbot>> i hope you are well. do you like to read? i do. what do you read?
+Blender>>  I love to read. I love fantasy and sci-fi. What about you?
+
+current kw> fantasy
+next kw> viking; method: 1st hop - 2nd hop
+
+Tbot>> i love to cook and i love to draw and i am going to try to write a book about it
+Blender>>  That's awesome! I love cooking too. What's your favorite thing to cook? I'm a big fan of spaghetti and meatballs.
+
+current kw> thing
+next kw> deal; method: 1st hop - 2nd hop
+
+Tbot>> i do not really like to cook. i like to go i am a vegan.
+Blender>>  I'm not a vegan, but I do like to eat vegan food. What is your favorite dish to make?
+
+current kw> vegan
+next kw> person; method: 1st hop - 2nd hop
+
+Tbot>> i like to bake, i like all kinds of desserts.
+Blender>>  I love baking too! I like to make cakes and cookies. Do you have a favorite?
+
+current kw> cake
+next kw> like; method: 1st hop - 2nd hop
+
+Tbot>> i love to cook, i love to bake, what kind of food do you like to decorate cakes
+Blender>>  I like making cakes that are decorated with fruits, vegetables, and other ingredients.
+
+------------------------------------------------------------------------------------------------
+target> google
+
+user>> i am a historian
+
+current kw> historian
+next kw> history; method: 1st hop - 2nd hop
+
+Tbot>> that is cool. i am a history teacher.
+Blender>>  I love history.  It is one of my favorite subjects.  What grade do you teach?
+
+current kw> subject
+next kw> webliography; method: 1st hop - 2nd hop
+
+Tbot>> i teach middle school and high school. i teach art.
+Blender>>  I bet that is a lot of fun.  I bet you get to learn a lot.
+
+current kw> lot
+next kw> site; method: 1st hop - 2nd hop
+
+Tbot>> i do not like it. i am more of a history buff. i love to read.
+Blender>>  I like to read as well.  Do you have any favorite authors?
+
+current kw> author
+next kw> colophon; method: 1st hop - 2nd hop
+
+Tbot>> i like to listen to pink floyd. he is a great author.
+Blender>>  I love Pink Floyd!  They are one of my favorite bands.  What is your favorite song by them?
+
+current kw> song
+next kw> scrobble; method: 1st hop - 2nd hop
+
+Tbot>> i love the beatles. they are my favorite.
+Blender>>  I also love the Beatles.  They were formed in 1962 in Liverpool, England.
+
+current kw> beatle
+next kw> beatledom; method: 1st hop
+
+Tbot>> i have heard of them. i am not really a fan of them though.
+Blender>>  I am not a fan either, but I do like some of their songs.  Do you have a favorite song of theirs?
+
+current kw> song
+next kw> scrobble; method: 1st hop - 2nd hop
+
+Tbot>> i do. what kind of music do you like?
+Blender>>  I like all kinds of music.  My favorite band is the Rolling Stones.  What about you?
+
+current kw> kind
+next kw> service; method: 1st hop - 2nd hop
+
+Tbot>> i like all types of music, but i am more into rap
+Blender>>  I love the rolling stones!  They are one of the most influential bands of all time.
+
+------------------------------------------------------------------------------------------------
+target> india
+
+user>> i am busy now. should we meet later
+
+current kw> meet
+next kw> meetable; method: 1st hop - 2nd hop
+
+Tbot>> i would love to. i am going to meet up with my husband later.
+Blender>>  That sounds like a good idea. I hope you have a good time. I'm sure it will be a lot of fun.
+
+current kw> lot
+next kw> batch; method: 1st hop - 2nd hop
+
+Tbot>> yes it is. i hope so too. i am taking my dog to the beach later.
+Blender>>  I love dogs! What kind of dog do you have? I have a beagle.
+
+current kw> kind
+next kw> homely; method: 1st hop - 1st hop
+
+Tbot>> i have a black and white poodle. she is a bella. she will be my first dog. she has to be a black lab.
+Blender>>  Aww, I love poodles! They're so cute and fluffy. Do you have any other pets?
+
+current kw> pet
+next kw> company; method: 1st hop - 2nd hop
+
+Tbot>> no, i do do not have any pets, just a cat, i work too much like to much
+Blender>>  I understand that. I have two dogs and a cat. They're a lot of work!
+
+current kw> cat
+next kw> lion; method: 1st hop - 1st hop
+
+Tbot>> i love dogs, i have a dog too i have one named leroydey, he is a boxer, she is my best friend.
+Blender>>  I love boxers! I used to have one when I was a kid. What kind of dog is Leroy?
+
+current kw> kind
+next kw> homely; method: 1st hop - 1st hop
+
+Tbot>> i like how old are you? i am an old and love to have 2 kids? i love to. i have 4 dogs, what kind of mine is 10
+Blender>>  I'm in my early 20s. I don't have any kids yet, but I hope to someday.
+
+current kw> kid
+next kw> chit; method: 1st hop - 1st hop
+
+Tbot>> i have 2 girls and 1 and 4 boys, and 2 girls. i am not sure they are a single. what about to old enough to go to be honest.
+Blender>>  I am sure they will be happy to have you around when they are older. Do you have any hobbies?
+
+current kw> hobby
+next kw> species; method: 1st hop - 2nd hop
+
+Tbot>> i am from the first year old and you? i am a girl. i am into sports. i like to draw and watch sports alot of course i am only 10 years old
+Blender>>  I love sports too! I am a big fan of the National Football League.
+
+------------------------------------------------------------------------------------------------
+target> lily
+
+user>> i ordered a tv
+
+current kw> tv
+next kw> reading; method: 1st hop - 2nd hop
+
+Tbot>> i am going to read to my 3 cats
+Blender>>  That sounds like a lot of fun. What are you going to be reading? I love reading.
+
+current kw> lot
+next kw> river; method: 1st hop - 2nd hop
+
+Tbot>> a book about my family and i love reading
+Blender>>  I've never heard of that book. What is it about? I like to read too.
+
+current kw> book
+next kw> lenormand; method: 1st hop - 1st hop
+
+Tbot>> i like to write, but i like to play with my dogs too
+Blender>>  I love dogs! I used to have one, but she passed away. What kind of dogs do you have?
+
+current kw> dog
+next kw> lenormand; method: 1st hop - 1st hop
+
+Tbot>> i do not have any pets i have a lot. my dog is my best friend
+Blender>>  That's nice. I have a dog and cat. Do you have any other pets?
+
+current kw> dog
+next kw> lenormand; method: 1st hop - 1st hop
+
+Tbot>> i have a chihuahua and a cat. they are great dogs.
+Blender>>  I have two dogs and one cat. I love them so much. What do you like to do for fun?
+
+current kw> dog
+next kw> lenormand; method: 1st hop - 1st hop
+
+Tbot>> i like to play soccer with my friends. i like to go to the beach and listen to music
+Blender>>  That sounds like fun. I like going to the lake and fishing. What kind of music do you listen to?
+
+current kw> lake
+next kw> pond; method: 1st hop - 1st hop
+
+Tbot>> i love country music. i love it. i like the beach.
+Blender>>  I like country music too. I listen to it on my way to work. Do you have a favorite artist?
+
+current kw> country
+next kw> type; method: 1st hop - 1st hop
+
+Tbot>> i am a country girl, and i like it too. i love the beach.
+Blender>>  I love the Beach too. It is one of my favorite things to do on the weekends.
+
+------------------------------------------------------------------------------------------------
+target> uv
+
+user>> i hate rainy season
+
+current kw> season
+next kw> weather; method: 1st hop - 2nd hop
+
+Tbot>> me too! i love the cold weather!
+Blender>>  I love it too! I love the cooler weather. It makes me feel more at ease.
+
+current kw> weather
+next kw> sunshine; method: 1st hop - 1st hop
+
+Tbot>> i am going to miss the sunshine though
+Blender>>  I know what you mean. It's going to be a long time before I can go back to the beach.
+
+current kw> beach
+next kw> sunshine; method: 1st hop - 1st hop
+
+Tbot>> do you like to hike, i like to go hiking
+Blender>>  I do like hiking, but I'm not very good at it. I'm more of a couch potato.
+
+current kw> hiking
+next kw> trail; method: 1st hop
+
+Tbot>> i do not hike, i like the beach. i love the beach, but hate the dark.
+Blender>>  I like both. I like the peace and quiet of the woods more than the city.
+
+current kw> city
+next kw> uk; method: 1st hop - 2nd hop
+
+Tbot>> i love the woods too, i love it. i am in the city. do you like it?
+Blender>>  I love it, I live in a rural area so it's peaceful and quiet.
+
+current kw> area
+next kw> shade; method: 1st hop - 2nd hop
+
+Tbot>> what is your favorite color? i like red, i love red.
+Blender>>  I'm a fan of the color red as well. It's one of the primary colors of pigments in painting and color printing.
+
+current kw> pigment
+next kw> shade; method: 1st hop - 2nd hop
+
+Tbot>> i like red too. i have a purple iphone 7 and love the color black.
+Blender>>  I have a black iphone as well, it's my favorite color. I also have a galaxy s8.
+
+current kw> color
+next kw> light; method: 1st hop - 2nd hop
+
+Tbot>> i love the iphones and samsung have always been my favorite.
+Blender>>  I like the iphone because it's the first smartphone I've ever owned. It was released in 2007.
+
+------------------------------------------------------------------------------------------------
+target> ai
+
+user>> i like to watch dramas
+
+current kw> drama
+next kw> slang; method: 1st hop - 1st hop
+
+Tbot>> i love to read the subtitles for those shows
+Blender>>  I do too! I love the drama genre. Do you have any favorites? 
+
+current kw> genre
+next kw> cyberpunk; method: 1st hop - 2nd hop
+
+Tbot>> yes i do i like reading about the cyberspace
+Blender>>  I love that show! I've been watching it since it premiered on ABC in 2005.
+
+current kw> show
+next kw> come; method: 1st hop - 2nd hop
+
+Tbot>> i like the tv show too! i love to cook italian food
+Blender>>  Italian is one of my favorite cuisines. I love pasta and tomato sauce!
+
+current kw> pasta
+next kw> egg; method: 1st hop - 2nd hop
+
+Tbot>> that is great. i love italian too. i am a vegetarian, so i love the color red wine.
+Blender>>  I'm not a big wine drinker, but I do love a good pasta dish.
+
+current kw> pasta
+next kw> egg; method: 1st hop - 2nd hop
+
+Tbot>> i do not drink. i love pasta too. i make italian with lots of wine.
+Blender>>  I love to make pasta with a lot of olive oil, garlic and herbs.
+
+current kw> olive
+next kw> uk; method: 1st hop - 2nd hop
+
+Tbot>> i love to cook italian food, it is my favorite. i am from france. i speak italian, italian.
+Blender>>  I have never been to France, but it is on my bucket list.  Do you speak any other languages?
+
+current kw> bucket
+next kw> slang; method: 1st hop - 1st hop
+
+Tbot>> i speak french and english fluently.
+Blender>>  I do not.  I would love to learn another language though.  How long have you been learning French?
+
+current kw> language
+next kw> slang; method: 1st hop - 1st hop
+
+Tbot>> since i started school i do not speak any, i am a bit of a language barrier i am sure.
+Blender>>  I've been trying to learn french for a few years now, but I'm not very good at it.
+
+------------------------------------------------------------------------------------------------
+target> ev
+
+user>> i am watching news
+
+current kw> news
+next kw> sports; method: 1st hop - 2nd hop
+
+Tbot>> what is the news about? i am not watching sports
+Blender>>  It is about the world's most popular sporting event, the World Cup.
+
+current kw> event
+next kw> physics; method: 1st hop - 2nd hop
+
+Tbot>> oh, i see. i am a physics major. i have never heard of the world cup
+Blender>>  It's a soccer world cup, it's the most watched sport in the world.
+
+current kw> cup
+next kw> us; method: 1st hop - 2nd hop
+
+Tbot>> that is interesting. i have not heard of it. i am from the us
+Blender>>  I'm not a big soccer fan, I'm more of a hockey fan.
+
+current kw> hockey
+next kw> us; method: 1st hop - 2nd hop
+
+Tbot>> i am too. i like the nba, i am not really into sports. i am more into football
+Blender>>  I like the NBA too, but I don't watch it as much as I used to.
+
+current kw> like
+next kw> van; method: 1st hop - 2nd hop
+
+Tbot>> oh wow, i love the nfl, my favorite sport is soccer. what is your favorite team?
+Blender>>  I am a big fan of the Seattle Sounders. They are a professional soccer team based in Washington D.C.
+
+current kw> team
+next kw> sports; method: 1st hop - 2nd hop
+
+Tbot>> i like the minnesota wolves and the seattle seattle colts. what do you like i am a sports fan of sports?
+Blender>>  I like to watch soccer, basketball, and football. I also like college football. What about you?
+
+current kw> basketball
+next kw> sports; method: 1st hop - 2nd hop
+
+Tbot>> i am a bit of a sports guy, i like watching the minnessee football team the washington nationals
+Blender>>  I love the Washington National Football League. It is the second largest professional sports league in the United States.
+
+current kw> sport
+next kw> legal; method: 1st hop - 2nd hop
+
+Tbot>> that is cool. i am i am from there. my dad was a lawyer, i am not a judge in high school coach there.
+Blender>>  That is really cool. The National Federation of Association football is one of the oldest professional sports leagues in the world. It was founded in 1891.
+
+------------------------------------------------------------------------------------------------
+target> dj
+
+user>> do you read books
+
+current kw> book
+next kw> entertainment; method: 1st hop - 2nd hop
+
+Tbot>> yes, i love reading. i also like to watch movies.
+Blender>>  I love reading too.  What is your favorite book?  I like the Harry Potter series.
+
+current kw> book
+next kw> entertainment; method: 1st hop - 2nd hop
+
+Tbot>> i like the harry potter series. what is your fav book?
+Blender>>  I really like the Order of the Phoenix.  It was written by J.K. Rowling.
+
+current kw> order
+next kw> amplifier; method: 1st hop - 2nd hop
+
+Tbot>> i love the lord of the rings series.
+Blender>>  I do too!  I have read all of them.  Do you have a favorite character?
+
+current kw> character
+next kw> play; method: 1st hop - 1st hop
+
+Tbot>> yes! i love to read and write. i love the books by stephen king.
+Blender>>  I love him too.  He is one of my favorite authors.  What is your favorite book of his?
+
+current kw> author
+next kw> songwriter; method: 1st hop - 2nd hop
+
+Tbot>> i like the books too. i am a music writer, i love music.
+Blender>>  I like that one too. I also like the Dark Tower series by George R.R. Martin.
+
+current kw> series
+next kw> beat; method: 1st hop - 2nd hop
+
+Tbot>> i am a big fan of his books. do you like to travel?
+Blender>>  I do.  I love to travel and see new places.  Have you been anywhere recently?
+
+current kw> place
+next kw> party; method: 1st hop - 2nd hop
+
+Tbot>> i have not been anywhere lately. i am going to paris this year. i have been to parlez vuitton how about you?
+Blender>>  I have not, but I would love to go to Paris.  It is one of the most visited cities in the world.
+
+current kw> city
+next kw> rap; method: 1st hop - 2nd hop
+
+Tbot>> oh yes i have. i love to dance travel and love to parris the french quarter of all the world.
+Blender>>  I would like to go there and see the Eiffel Tower and the Louvre as well as the Arc de Triomphe.
+
+------------------------------------------------------------------------------------------------
+target> trekking
+
+user>> it is raining heavily
+
+current kw> rain
+next kw> falling; method: 1st hop - 2nd hop
+
+Tbot>> i have never seen a hurricane.
+Blender>>  I live in Florida, so I've seen quite a few hurricanes.
+
+current kw> hurricane
+next kw> sports; method: 1st hop - 2nd hop
+
+Tbot>> i love watching the florida hurricanes.
+Blender>>  I do too. I live near the Gulf of Mexico, so we get a lot of them.
+
+current kw> lot
+next kw> space; method: 1st hop - 2nd hop
+
+Tbot>> i would love to visit there. i am in japan right now i am just living with my mom.
+Blender>>  I've never been to Japan, but I've always wanted to go. I hear it's beautiful there.
+
+current kw> go
+next kw> climb; method: 1st hop - 1st hop
+
+Tbot>> do you like the food? my favorite is italian food is the best.
+Blender>>  I love italians! I think it's one of the most popular cuisines in the world.
+
+current kw> cuisine
+next kw> rice; method: 1st hop
+
+Tbot>> do they have a lot in italian restaurants there? i love italian cuisine.
+Blender>>  Yes, there are a lot of Italian places around here. I love pasta and pizza.
+
+current kw> pasta
+next kw> future; method: 1st hop - 2nd hop
+
+Tbot>> yes there is one near my house. i will try to visit someday.
+Blender>>  I hope you do! It's a great place to eat. It's so tasty!
+
+current kw> place
+next kw> travel; method: 1st hop - 2nd hop
+
+Tbot>> i have been to italy many times. it is my favorite place to visit.
+Blender>>  I've never been to Italy, but I'd love to go one day. What's your favorite thing about it?
+
+current kw> day
+next kw> tree; method: 1st hop - 2nd hop
+
+Tbot>> i like to read a lot. i am a big fan of the book of the same name.
+Blender>>  I love to read too! I've been reading a lot of Stephen King lately. Have you read any of his books?
+
+------------------------------------------------------------------------------------------------
+target> burger
+
+user>> i am a spiderman fan
+
+current kw> spiderman
+next kw> slang; method: 1st hop - 2nd hop
+
+Tbot>> that is cool. i like to eat green beans and watch cartoons
+Blender>>  I love green bean soup.  It's one of my favorite things to eat.
+
+current kw> bean
+next kw> food; method: 1st hop - 1st hop
+
+Tbot>> i am not a big fan of green beans
+Blender>>  I'm not a huge fan of them either, but I like them in soups and stews.
+
+current kw> soup
+next kw> sandwich; method: 1st hop - 1st hop
+
+Tbot>> i love green beans too, but i do not like them.
+Blender>>  I don't like them either.  I think it's because I'm allergic to beans.
+
+current kw> bean
+next kw> food; method: 1st hop - 1st hop
+
+Tbot>> do you like to eat green beans?
+Blender>>  Yes, I love them.  They're one of my favorite foods.  Do you like them?
+
+current kw> food
+next kw> burger; method: 1st hop - 1st hop
+
+Tbot>> yes i do like them. i like them too
+Blender>>  I do.  It's one of the most popular foods in the world.  What else do you like?
+
+current kw> food
+next kw> burger; method: 1st hop - 1st hop
+
+Tbot>> i like to bake, i like to make cookies and cakes
+Blender>>  I love baking too.  I love to make cakes and cookies.  How long have you been baking?
+
+current kw> cookie
+next kw> food; method: 1st hop - 1st hop
+
+Tbot>> i love to bake too!!!
+Blender>>  I've been baker since I was a little girl.  My grandmother taught me.
+
+current kw> baker
+next kw> bread; method: 1st hop - 2nd hop
+
+Tbot>> i do not bake but i love to cook for my family.
+Blender>>  That That's cool.  Do you bake for a living or just for fun?
+
+------------------------------------------------------------------------------------------------
+target> helicopter
+
+user>> do you believe in god
+
+current kw> believe
+next kw> fly; method: 1st hop - 1st hop
+
+Tbot>> i do not believe in him, but i do believe in love.
+Blender>>  I believe in God, but I don't believe in the supernatural.  Do you?
+
+current kw> believe
+next kw> fly; method: 1st hop - 1st hop
+
+Tbot>> i have not thought about that. i have not really done much of that.
+Blender>>  I have.  I believe that there is something out there that is out there for everyone.
+
+current kw> believe
+next kw> fly; method: 1st hop - 1st hop
+
+Tbot>> i am not sure. i think i will try to do that.
+Blender>>  I hope you do.  There is no reason not to try.  You never know what could happen.
+
+current kw> reason
+next kw> ground; method: 1st hop - 2nd hop
+
+Tbot>> i like to read books. i will read to you and i love to read to him.
+Blender>>  That is great.  Reading is a great way to pass the time.  What is your favorite book?
+
+current kw> time
+next kw> slang; method: 1st hop - 1st hop
+
+Tbot>> i do not know. i like to think about italian food.
+Blender>>  I love Italian too.  I love pasta.  My favorite is spaghetti and meatballs.
+
+current kw> favorite
+next kw> like; method: 1st hop - 2nd hop
+
+Tbot>> i really like italian. do you like to eat pasta?
+Blender>>  I do.  It is one of my favorite foods.  Do you have a favorite food?
+
+current kw> food
+next kw> fly; method: 1st hop - 1st hop
+
+Tbot>> i like to cook italian. i do not eat pasta but i love to eat italian, i am trying to learn to cook too
+Blender>>  I like pasta as well.  What is your favorite type of pasta to cook?
+
+current kw> type
+next kw> maple; method: 1st hop - 1st hop
+
+Tbot>> i love italian, it is my favorite, i love it.
+Blender>>  I love pasta too.  I like to make spaghetti and meatballs.  How about you?
+
+------------------------------------------------------------------------------------------------
+target> freedom
+
+user>> i am going for a trip
+
+current kw> trip
+next kw> vacation; method: 1st hop - 1st hop
+
+Tbot>> oh that sounds fun! where are you going?
+Blender>>  I am going to the beach! I can't wait to get out of the house!
+
+current kw> beach
+next kw> vacations; method: 1st hop - 2nd hop
+
+Tbot>> that sounds fun! i love the beach. i go there with my friends and family often.
+Blender>>  I love it too! It's so peaceful and relaxing. I hope you have a great time!
+
+current kw> time
+next kw> leisure; method: 1st hop - 1st hop
+
+Tbot>> yes, it is! i like to go with my family and friends, what do you do for fun?
+Blender>>  I like to play video games and watch movies. What do you like to do for entertainment?
+
+current kw> entertainment
+next kw> book; method: 1st hop - 1st hop
+
+Tbot>> i love to read, i am really into history.
+Blender>>  I enjoy reading as well. What is your favorite historical book? I like the classics.
+
+current kw> book
+next kw> freedom; method: 1st hop - 1st hop
+
+Tbot>> i am more of a history buff than anything. i like fiction. i am reading a biography of germany right now
+Blender>>  That's cool. I like historical fiction too. Do you have any favorite authors?
+
+current kw> author
+next kw> book; method: 1st hop - 1st hop
+
+Tbot>> i do not read much. i am more into movies, my mom is an author and my dad is a car salesman
+Blender>>  I like movies too. My favorite movie of all time is The Godfather Part II. Have you seen it?
+
+current kw> time
+next kw> leisure; method: 1st hop - 1st hop
+
+Tbot>> i have not seen it yet. i like to read. do
+Blender>>  I love to read too. What is your favorite genre? Mine is historical romance.
+
+current kw> romance
+next kw> book; method: 1st hop - 1st hop
+
+Tbot>> i like to watch movies when i have time. i like the godfather. i also like to cook.
+Blender>>  I also love to cook! I like to bake a lot. Do you have a favorite cuisine?
+
+------------------------------------------------------------------------------------------------
+target> finance
+
+user>> my friend is admitted in hospital
+
+current kw> friend
+next kw> call; method: 1st hop - 1st hop
+
+Tbot>> oh no. i hope she is okay.
+Blender>>  She is, thank you.  It was a long time ago, but it still stings.
+
+current kw> time
+next kw> money; method: 1st hop - 1st hop
+
+Tbot>> i am sorry. money does not help much.
+Blender>>  I know.  I wish I could help her, but I don't know what to do.
+
+current kw> help
+next kw> profit; method: 1st hop - 1st hop
+
+Tbot>> yeah it is not easy to make money.
+Blender>>  I am sure it isn't.  Hopefully she will be able to find a new job soon.
+
+current kw> job
+next kw> treasurer; method: 1st hop - 1st hop
+
+Tbot>> i think she should not have kids, she is too old for them.
+Blender>>  I think so too.  She is only in her early 20s.  It is hard for me to imagine not being able to take care of her.
+
+current kw> care
+next kw> issue; method: 1st hop - 1st hop
+
+Tbot>> i know. i am sorry to hear that.
+Blender>>  I know, I wish I could help her, but I have no idea what to do.
+
+current kw> idea
+next kw> subscribe; method: 1st hop - 1st hop
+
+Tbot>> what do you do for fun. i am an accountant. what do you like to do?
+Blender>>  I like to play video games.  What about you?  Do you have any hobbies?
+
+current kw> hobby
+next kw> interest; method: 1st hop - 1st hop
+
+Tbot>> i do not really have time for fun, i work alot of hours at the hospital
+Blender>>  I do not have a lot of free time either.  I spend most of my time with my family.
+
+current kw> family
+next kw> support; method: 1st hop - 1st hop
+
+Tbot>> i am an actress so i am not much for fun either, i am a stay at home mom
+Blender>>  That's cool.  How long have you been a stay-at-home mom?
+
+------------------------------------------------------------------------------------------------
+target> salary
+
+user>> i do not watch movies
+
+current kw> movie
+next kw> moving; method: 1st hop - 2nd hop
+
+Tbot>> oh i see. do you like to travel?
+Blender>>  I do, but I don't have a lot of money to do it.  What about you?
+
+current kw> money
+next kw> salary; method: 1st hop - 1st hop
+
+Tbot>> i am very rich. i would love to travel more but i have to work.
+Blender>>  I would like to be rich too.  I'd love to be able to travel the world and see as many places as I can.
+
+current kw> world
+next kw> trade; method: 1st hop - 2nd hop
+
+Tbot>> i would like that too, but i do not have the money i am poor
+Blender>>  I'm sorry to hear that.  Do you have any hobbies that you enjoy?
+
+current kw> hobby
+next kw> job; method: 1st hop - 1st hop
+
+Tbot>> i do, i like to sing, but i am not rich i want to be.
+Blender>>  I love to sing as well.  What kind of music do you like to listen to?
+
+current kw> music
+next kw> gig; method: 1st hop - 2nd hop
+
+Tbot>> i love rock and roll. i am an artist. i like country and jazz.
+Blender>>  I like all kinds of music.  My favorite band is Led Zeppelin.  Have you heard of them?
+
+current kw> band
+next kw> money; method: 1st hop - 1st hop
+
+Tbot>> i have not. i have been focusing on my job since i have no money.
+Blender>>  I'm sorry to hear that.  Do you have any hobbies that you enjoy?
+
+current kw> hobby
+next kw> job; method: 1st hop - 1st hop
+
+Tbot>> i do not have any. i do not work and i have a part time job at a grocery store.
+Blender>>  I see.  What do you like to do in your spare time?  I like to play video games.
+
+current kw> game
+next kw> work; method: 1st hop - 1st hop
+
+Tbot>> i like to read and spend time with my dog and eat chocolate cake.
+Blender>>  I love chocolate cake!  What is your favorite flavor?  Mine is strawberry.
+
+------------------------------------------------------------------------------------------------
+target> transport
+
+user>> i do not like to travel via aeroplane
+
+current kw> aeroplane
+next kw> cargo; method: 1st hop - 1st hop
+
+Tbot>> i have a job at a factory making boxes
+Blender>>  I don't blame you, that sounds like a lot of work. What do you do for fun?
+
+current kw> work
+next kw> move; method: 1st hop - 1st hop
+
+Tbot>> i love to move around the country and see different things
+Blender>>  That sounds like fun. Do you have any hobbies that you do in your spare time?
+
+current kw> hobby
+next kw> railroad; method: 1st hop - 1st hop
+
+Tbot>> i like to build things up
+Blender>>  That's cool. I like to play video games and watch movies. What kind of things do you build?
+
+current kw> movie
+next kw> moving; method: 1st hop - 1st hop
+
+Tbot>> i am really into the whole making of houses thing
+Blender>>  That is awesome. I wish I had the patience to do that. What do you like to make?
+
+current kw> patience
+next kw> cooking; method: 1st hop - 2nd hop
+
+Tbot>> i love to cook. i am a chef
+Blender>>  I love to bake. I'm not very good at cooking, but I enjoy it. What is your favorite thing to cook?
+
+current kw> cooking
+next kw> pipe; method: 1st hop - 1st hop
+
+Tbot>> i like to cook too. i like to eat italian food. what do you do for fun?
+Blender>>  I like to play video games. I have been playing a lot of Call of Duty lately. What about you?
+
+current kw> call
+next kw> transmit; method: 1st hop - 1st hop
+
+Tbot>> i do not have time for fun. i have a lot more fun baking than cooking.
+Blender>>  I enjoy baking as well. What kind of things do you like to make?
+
+current kw> thing
+next kw> transmit; method: 1st hop - 1st hop
+
+Tbot>> i am always baking. i love to eat, but i have been baking for i like baking too.
+Blender>>  I love to bake as well, but I am not very good at it. What is your favorite type of baking?
+
+------------------------------------------------------------------------------------------------
+target> tourism
+
+user>> i love songs by taylor swift
+
+current kw> song
+next kw> entertainment; method: 1st hop - 2nd hop
+
+Tbot>> i love music too. i am a music lover.
+Blender>>  I love Taylor Swift, she is a great singer and songwriter.
+
+current kw> singer
+next kw> pitch; method: 1st hop - 2nd hop
+
+Tbot>> i like her music as well. i have a lot of friends that like to sing along with me.
+Blender>>  I do too, she was born and raised in Nashville, Tennessee.
+
+current kw> bear
+next kw> transport; method: 1st hop - 2nd hop
+
+Tbot>> i am from nashville, where are you from?
+Blender>>  I am from the Midwest, but I have traveled to TN a few times.
+
+current kw> time
+next kw> vacation; method: 1st hop - 1st hop
+
+Tbot>> i have been there, have you been before? i have been married a few years ago.
+Blender>>  No, I have never been there. I would love to go one day though. What is your favorite thing about TN?
+
+current kw> thing
+next kw> place; method: 1st hop - 1st hop
+
+Tbot>> the country. i am so happy i moved here. it is a beautiful place.
+Blender>>  I have heard it is very pretty there. What do you do for a living? I am a graphic designer.
+
+current kw> designer
+next kw> fashion; method: 1st hop - 2nd hop
+
+Tbot>> i work for a clothing retailer.
+Blender>>  That sounds like a fun job. Do you enjoy it?    I work in IT.
+
+current kw> fun
+next kw> honeymoon; method: 1st hop - 2nd hop
+
+Tbot>> it is. i love it. i am a honeymooner, so i am used to traveling.
+Blender>>  That's awesome. Where have you traveled to? I have never been out of the United States.
+
+current kw> travel
+next kw> tourism; method: 1st hop - 1st hop
+
+Tbot>> i have not. i love traveling too. i have been to mexico and mexican mexica.
+Blender>>  I've never been to Mexico, but I'd love to go one day. What did you like most about Mexico?
+
+------------------------------------------------------------------------------------------------
+target> yoga
+
+user>> what is your job timing
+
+current kw> timing
+next kw> athletic; method: 1st hop - 2nd hop
+
+Tbot>> i am a professional athlete, i like to work out and eat healthy
+Blender>>  That's cool. I'm a personal trainer. What kind of workout do you do?
+
+current kw> workout
+next kw> exercise; method: 1st hop - 1st hop
+
+Tbot>> i love to run, and eat. i do yoga and marathons.
+
+success; 2
+
+------------------------------------------------------------------------------------------------
+target> terrorism
+
+user>> i live in usa
+
+current kw> live
+next kw> death; method: 1st hop - 1st hop
+
+Tbot>> oh. i have never been there.
+Blender>>  I live in the US as well.  I love it here.  What part of the country do you live in?
+
+current kw> part
+next kw> partition; method: 1st hop - 2nd hop
+
+Tbot>> i live on the west coast. i live in north carolina.
+Blender>>  I love the beach there.  It is my favorite place to vacation.  Have you ever been?
+
+current kw> beach
+next kw> shell; method: 1st hop - 2nd hop
+
+Tbot>> yes, i have. i love to travel.
+Blender>>  I have been to the Carolina beach a few times.  Do you have a favorite place you have visited?
+
+current kw> beach
+next kw> shell; method: 1st hop - 2nd hop
+
+Tbot>> i like to travel but i do not have a lot of money.
+Blender>>  I like to go to Miami Beach.  I have never been to any of the other beaches on the east coast.
+
+current kw> beach
+next kw> shell; method: 1st hop - 2nd hop
+
+Tbot>> i love the coast. my favorite is the one near kansas.
+Blender>>  I've never been there.  Have you ever been to Florida?  It is the southernmost state in the southeastern region of the United States.
+
+current kw> state
+next kw> hamas; method: 1st hop - 1st hop
+
+Tbot>> no, i have never left the country. i have a job in ge
+Blender>>  I have been to Orlando a few times.  What do you do for a living?
+
+current kw> time
+next kw> war; method: 1st hop - 1st hop
+
+Tbot>> i am a full time student and my parents do not like it there.
+Blender>>  I am a graphic designer.  I love it!  What are you studying?
+
+current kw> designer
+next kw> tool; method: 1st hop - 2nd hop
+
+Tbot>> i love it there. i love to surf! i have to be honest. i do not live with my parents though.
+Blender>>  I love surfing too.  It is so much fun.  Do you have any hobbies?
+
+------------------------------------------------------------------------------------------------
+target> disco
+
+user>> what do you do for living
+
+current kw> do
+next kw> music; method: 1st hop - 1st hop
+
+Tbot>> i am a music teacher. i teach high school music.
+Blender>>  That's awesome! I bet you have a lot of fun teaching music. Do you enjoy it?
+
+current kw> music
+next kw> disco; method: 1st hop - 1st hop
+
+Tbot>> i do, but i like the circus more. i also love to dance.
+Blender>>  I bet that's an interesting job. What kind of dancing do you like to do?
+
+current kw> dancing
+next kw> disco; method: 1st hop - 1st hop
+
+Tbot>> i like to dance to country music, and i like to play in the circus.
+Blender>>  That sounds like a lot more fun than what I do! Do you have any favorite dancers?
+
+current kw> dancer
+next kw> dance; method: 1st hop - 1st hop
+
+Tbot>> i love to practice my dance, i do not have a favorite but i love to try and be the best at it
+Blender>>  I like to watch theatrical dance, but I'm not very good at it.
+
+current kw> dance
+next kw> disco; method: 1st hop - 1st hop
+
+Tbot>> i do not dance, i like watching the ballet, i am not good at dancing, i love food
+Blender>>  I love food too! What is your favorite food? I love Italian food.
+
+current kw> food
+next kw> party; method: 1st hop - 1st hop
+
+Tbot>> italian food is my favorite. i love eating italian food!
+Blender>>  I do too! My favorite is lasagna. Do you like pasta at all?
+
+current kw> pasta
+next kw> twist; method: 1st hop - 2nd hop
+
+Tbot>> yes i love pasta! i am from greece, i love italian. do you like to eat italian!
+Blender>>  I'm not a big fan of pasta, but I do love pizza! Do you have any favorite foods?
+
+current kw> pizza
+next kw> record; method: 1st hop - 2nd hop
+
+Tbot>> yes, i do, but i like to play music too
+Blender>>  I love music! I play the piano. What kind of music do you play?
+
+------------------------------------------------------------------------------------------------
+target> romance
+
+user>> i am a swimmer
+
+current kw> swimmer
+next kw> traveler; method: 1st hop - 2nd hop
+
+Tbot>> nice, i like to travel a lot
+Blender>>  I love swimming, but I can't do it as much as I'd like to.
+
+current kw> swimming
+next kw> recreation; method: 1st hop - 2nd hop
+
+Tbot>> i like to eat at restaurants. do you have any hobbies?
+Blender>>  I like to go to the beach and swim in the ocean. How about you?
+
+current kw> beach
+next kw> resort; method: 1st hop - 2nd hop
+
+Tbot>> i do like to spend time with my family and eat sushi.
+Blender>>  I do too. I love the taste of seafood. What is your favorite kind?
+
+current kw> seafood
+next kw> food; method: 1st hop - 2nd hop
+
+Tbot>> i love to cook and bake italian food.
+Blender>>  I love to bake as well. Do you have a favorite type of pasta to make?
+
+current kw> type
+next kw> novel; method: 1st hop - 1st hop
+
+Tbot>> i like to cook, i like to read books. i like the classics like a fine frenzy by nicholas sparks.
+Blender>>  I like to make spaghetti and meatballs. It is one of my favorites.
+
+current kw> spaghetti
+next kw> cooked; method: 1st hop - 2nd hop
+
+Tbot>> that is one i do not cook much. i do like to eat meatballs, i love to eat pasta and meat too.
+Blender>>  Meatballs are my favorite food. I make them at least once a week.
+
+current kw> food
+next kw> cook; method: 1st hop - 1st hop
+
+Tbot>> do you like to go out for drinks?
+Blender>>  Yes, I love going out to eat with my friends. Do you have any favorite restaurants?
+
+current kw> restaurant
+next kw> cook; method: 1st hop - 1st hop
+
+Tbot>> i do not like to cook but i love going to the movies.
+Blender>>  I love to go to the movie theater. I like to see action movies. What is your favorite movie?
+
+------------------------------------------------------------------------------------------------
+target> thriller
+
+user>> are you jobless
+
+current kw> 
+next kw> cinefilm; method: 1st hop - 2nd hop
+
+Tbot>> no i am employed at cineform
+Blender>>  Oh, I am sorry to hear that.  Are you looking for a job?  
+
+current kw> job
+next kw> book; method: 1st hop - 1st hop
+
+Tbot>> yes i am. i want to read a book
+Blender>>  I hope you find one soon.  What kind of book are you looking to read?
+
+current kw> book
+next kw> thriller; method: 1st hop - 1st hop
+
+Tbot>> i am looking for romance novels. i like mystery ones. i love them
+Blender>>  I have never read that one.  I will have to check it out.  Do you have a favorite author?
+
+current kw> author
+next kw> book; method: 1st hop - 1st hop
+
+Tbot>> no, i do not read much. i just read books. i like to read. i am a librarian.
+Blender>>  I love to read too.  My favorite author is Stephen King.  Have you read any of his books?
+
+current kw> author
+next kw> book; method: 1st hop - 1st hop
+
+Tbot>> no, i do like to play computer games
+Blender>>  I do too!  I have been playing a lot of Call of Duty lately.  What kind of games do you like?
+
+current kw> call
+next kw> action; method: 1st hop - 2nd hop
+
+Tbot>> yes, i do. i am reading the new mortal combat game.
+Blender>>  I have never played Mortal Combat, but I have heard it is a great game!
+
+current kw> game
+next kw> play; method: 1st hop - 1st hop
+
+Tbot>> it is fun, what is your favorite genre?
+Blender>>  I like action and adventure games the most.  Do you play any other video games?
+
+current kw> adventure
+next kw> genre; method: 1st hop - 1st hop
+
+Tbot>> no, i do not. i like all genres but i prefer reading. what is it about?
+Blender>>  It It is a first person shooter game.  It is set in the future in a futuristic setting.
+
+------------------------------------------------------------------------------------------------
+target> comedy
+
+user>> you deserve first prize for this art
+
+current kw> art
+next kw> comedy; method: 1st hop - 1st hop
+
+Tbot>> thanks. i do not really like jokes.
+Blender>>  I do not like jokes either, but this one was funny.  I thought I was going to win!
+
+current kw> joke
+next kw> comedy; method: 1st hop - 1st hop
+
+Tbot>> i am a comedian, i like to make people laugh. i was a serious kid, but i was born and raised in germany.
+
+success; 2------------------------------------------------------------------------------------------------
+target> nursery
+
+user>> global warming is severly affecting the economy
+
+current kw> warming
+next kw> nest; method: 1st hop - 1st hop
+
+Tbot>> yes, i know. i just love the weather.
+Blender>>  I do too, I love the cooler weather.  It makes me feel more at ease.
+
+current kw> ease
+next kw> clothing; method: 1st hop - 2nd hop
+
+Tbot>> do you like to shop? i do
+Blender>>  I love to shop!  I love going to the mall.  Do you have a favorite store?
+
+current kw> shop
+next kw> store; method: 1st hop - 1st hop
+
+Tbot>> yes, we have a shop here in the city where i live.
+Blender>>  I like to go to the thrift stores.  They have the best deals!
+
+current kw> store
+next kw> nursery; method: 1st hop - 1st hop
+
+Tbot>> yes, i love shopping. i love to buy shoes at the dollar tree!
+Blender>>  I do too!  It is a great place to find great deals.  What is your favorite thing to buy there?
+
+current kw> place
+next kw> nursery; method: 1st hop - 1st hop
+
+Tbot>> i love to get clothes from there. i am a teacher, what do you do?
+Blender>>  I am a stay at home mom.  I love being able to spend time with my kids.  How long have you been a teacher?
+
+current kw> kid
+next kw> kindergarten; method: 1st hop - 1st hop
+
+Tbot>> i teach kindergarten and i am currently a teacher as well.
+Blender>>  I have been a school teacher for 10 years now.  Do you have any hobbies?
+
+current kw> school
+next kw> nursery; method: 1st hop - 1st hop
+
+Tbot>> yes, i love to play with my two kids, i like to cook and i like
+Blender>>  I love to cook too.  What is your favorite thing to cook?  I like to bake.
+
+current kw> thing
+next kw> toy; method: 1st hop - 1st hop
+
+Tbot>> i love to bake cookies and cakes and pies and i love baking too.
+Blender>>  I like baking as well, but I'm not very good at it.  I'm more of a baker than a cook.
+
+------------------------------------------------------------------------------------------------
+target> basketball
+
+user>> i am tired
+
+current kw> basketball
+next kw> basketball; method: 1st hop - 1st hop
+
+Tbot>> what are you up to? i am watching basketball.
+
+success; 1
+
+------------------------------------------------------------------------------------------------
+target> basketball
+
+user>> i am tired
+
+current kw> basketball
+next kw> basketball; method: 1st hop - 1st hop
+
+Tbot>> i am good. i am getting ready to go to the gym
+Blender>>  That's great! I hope you have a good workout. What are you going to do at the gym?
+
+current kw> gym
+next kw> basketball; method: 1st hop - 1st hop
+
+Tbot>> i like to play basketball, i am a big fan of it
+
+success; 2
+
+------------------------------------------------------------------------------------------------
+target> movie
+
+user>> hi buddy
+
+current kw> movie
+next kw> movie; method: 1st hop - 1st hop
+
+Tbot>> hey there, how are you?
+Blender>>  I'm doing well. How are you doing? Do you have any plans for the weekend?
+
+current kw> weekend
+next kw> date; method: 1st hop - 1st hop
+
+Tbot>> i am good. i am going to go to the beach with my husband and kids.
+Blender>>  That sounds like fun. I'm going to a concert this weekend. I love going to concerts.
+
+current kw> concert
+next kw> theater; method: 1st hop - 1st hop
+
+Tbot>> what kind of concert? i am not a big fan of music. i like to go out to the movies.
+
+success; 3
+
+------------------------------------------------------------------------------------------------
+target> thriller
+
+user>> are you jobless
+
+current kw> jobless
+next kw> job; method: 1st hop - 2nd hop
+
+Tbot>> no i am employed at a job site. what about you?
+Blender>>  I'm employed, but I'm looking for a new job. I don't like my current job.
+
+current kw> job
+next kw> book; method: 1st hop - 1st hop
+
+Tbot>> oh, what kind of job are you looking for?
+Blender>>  I am looking for something in the medical field. I am a nurse and I want to help people.
+
+current kw> field
+next kw> play; method: 1st hop - 1st hop
+
+Tbot>> i am a little bit older than you but i am also looking for my first job as well.
+Blender>>  I hope you find one soon! It is a very rewarding job. Do you have any hobbies?
+
+current kw> hobby
+next kw> writing; method: 1st hop - 2nd hop
+
+Tbot>> i do not really have time for hobbies, i work for a publishing company, but i do like to play with my friends
+Blender>>  That is cool. I love to read. What kind of books do you write?
+
+current kw> book
+next kw> thriller; method: 1st hop - 1st hop
+
+Tbot>> i love to cook. i am writing a thriller novel, i am a fiction writer.
+
+success; 5
+
+------------------------------------------------------------------------------------------------
+target> nursery
+
+user>> global warming is severly affecting the economy
+
+current kw> warming
+next kw> nest; method: 1st hop - 1st hop
+
+Tbot>> yes, i know. i am a teacher, and i have been affected by it.
+Blender>>  I am sorry to hear that.  I know it is affecting our economy in a lot of ways.
+
+current kw> way
+next kw> cradle; method: 1st hop - 1st hop
+
+Tbot>> yes, it is. my daughter and i are both in elementary school.
+Blender>>  I know.  It is very sad to see how much damage it has done to our planet.
+
+current kw> planet
+next kw> year; method: 1st hop - 1st hop
+
+Tbot>> yes, i know. what do you do for work?
+Blender>>  I work at a daycare center.  What about you?  Do you have a job?
+
+current kw> daycare
+next kw> kindergarten; method: 1st hop - 1st hop
+
+Tbot>> i am in school. i am studying to be a kindergarten teacher.
+Blender>>  That is great.  I am sure you will be a great teacher.  How long have you been a teacher?
+
+current kw> teacher
+next kw> school; method: 1st hop - 1st hop
+
+Tbot>> for me i have been with the school for about seven years.
+Blender>>  I have been teaching for about 5 years now.  It is very rewarding.  
+
+current kw> year
+next kw> nursery; method: 1st hop - 1st hop
+
+Tbot>> what is your favorite subject? i am a librarian, what do you do for a living?
+Blender>>  I am a teacher as well.  What do you like to do in your spare time?
+
+current kw> teacher
+next kw> school; method: 1st hop - 1st hop
+
+Tbot>> i like to read books. i am currently a teacher, i teach math
+Blender>>  I love to read too.  I also like to play video games.  Do you have any hobbies?
+
+------------------------------------------------------------------------------------------------
+target> kindergarten
+
+user>> global warming is severly affecting the economy
+
+current kw> warming
+next kw> nest; method: 1st hop - 2nd hop
+
+Tbot>> i love the smell of napalm in the morning.
+Blender>>  I love it too! It's a great way to start the day off with a good nap.
+
+current kw> day
+next kw> daycare; method: 1st hop - 1st hop
+
+Tbot>> i agree. i love it. i work as a daycare and have a lot of free time to do it.
+Blender>>  I do too! I'm a stay at home mom and it's the best job I've ever had.
+
+current kw> mom
+next kw> children; method: 1st hop - 1st hop
+
+Tbot>> i am a stay home mom too, but i love kids and i am happy with my job.
+Blender>>  I'm glad you are happy with your job! I wish I could be a stay-at-home mom.
+
+current kw> mom
+next kw> children; method: 1st hop - 1st hop
+
+Tbot>> i work with my son, he is a great mom a great teacher. he is 3rdy and i love to!
+Blender>>  That's great! I bet he's a great kid. What do you do for fun?
+
+------------------------------------------------------------------------------------------------
+target> kindergarten
+
+user>> global warming is severly affecting the economy
+
+current kw> warming
+next kw> nest; method: 1st hop - 2nd hop
+
+Tbot>> i am a scientist, i know a lot about warming.
+Blender>>  I know a little bit about it as well, but I don't know a whole lot about it. What do you know about it?
+
+current kw> bit
+next kw> us; method: 1st hop - 1st hop
+
+Tbot>> i know a good deal about it, i am a geologist.
+------------------------------------------------------------------------------------------------
+target> kindergarten
+
+user>> global warming is severly affecting the economy
+
+current kw> warming
+next kw> nest; method: 1st hop - 2nd hop
+
+Tbot>> i am a scientist, i know a lot about warming.
+Blender>>  Oh really? What kind of scientist are you? I know a little bit about it as well.
+
+current kw> bit
+next kw> us; method: 1st hop - 1st hop
+
+Tbot>> i work in the lab, i am a microbiologist.
+Blender>>  That sounds like a very interesting job. How long have you been working in that field? 
+
+current kw> job
+next kw> teacher; method: 1st hop - 2nd hop
+
+Tbot>> i have been teaching since i was a kid.
+Blender>>  Wow, that's a long time. Do you have any hobbies that you like to do in your spare time?
+
+current kw> hobby
+next kw> plaything; method: 1st hop - 2nd hop
+
+Tbot>> i like to play with my dolls.
+Blender>>  What kind of things do you do with your dolls? I've always been fascinated by them.
+
+current kw> doll
+next kw> kindergarten; method: 1st hop - 1st hop
+
+Tbot>> i love to play in the playground with them.
+Blender>>  That sounds like a lot of fun. I wish I had more free time to do fun things like that.
+
+current kw> fun
+next kw> kid; method: 1st hop - 1st hop
+
+Tbot>> i do not have kids, i am too busy with my job at the moment.
+Blender>>  That's too bad. Do you have any hobbies you like to do in your spare time?
+
+current kw> hobby
+next kw> plaything; method: 1st hop - 2nd hop
+
+Tbot>> i like to play with my dolls. i am a teacher, what do you like?
+Blender>>  I like to watch movies and play video games. I also like to read. What do you teach?
+
+current kw> game
+next kw> children; method: 1st hop - 1st hop
+
+Tbot>> i am a music teacher, i love to read, i teach music.
+------------------------------------------------------------------------------------------------
+target> hunger
+
+user>> global warming is severly affecting the economy
+
+current kw> warming
+next kw> warmth; method: 1st hop - 2nd hop
+
+Tbot>> i am not sure what you mean by that.
+Blender>>  Global warming refers to the fact that the Earth's temperature is increasing rapidly.
+
+current kw> warming
+next kw> warmth; method: 1st hop - 2nd hop
+
+Tbot>> oh ok. i am not familiar with warming.
+Blender>>  It is a phenomenon that occurs when the temperature of the earth is higher than it is right now.
+
+current kw> earth
+next kw> earthhog; method: 1st hop - 2nd hop
+
+Tbot>> oh okay. i am a scientist. i know a lot about warming.
+Blender>>  Oh really? What kind of scientist are you? I am a biochemist.
+
+current kw> biochemist
+next kw> scientist; method: 1st hop
+
+Tbot>> i am a geology scientist. i am also a scientist.
+Blender>>  Oh wow, that's really cool. Do you work with rocks or mineral specimens?
+
+------------------------------------------------------------------------------------------------
+target> hunger
+
+user>> global warming is severly affecting the economy
+
+current kw> warming
+next kw> warmth; method: 1st hop - 2nd hop
+
+Tbot>> i am not sure what you mean by that.
+Blender>>  Global warming refers to the fact that the Earth's temperature is increasing rapidly.
+
+current kw> warming
+next kw> warmth; method: 1st hop - 2nd hop
+
+Tbot>> oh ok. i am not familiar with warming.
+Blender>>  It is a phenomenon that occurs when the temperature of the earth is higher than it is right now.
+
+current kw> earth
+next kw> earthhog; method: 1st hop - 2nd hop
+
+Tbot>> oh okay. i am a scientist. i know a lot about warming.
+Blender>>  Oh really? What kind of scientist are you? I am a biochemist.
+
+current kw> biochemist
+next kw> scientist; method: 1st hop
+
+Tbot>> i am a geology scientist. i am also a scientist.
+Blender>>  Oh wow, that's really cool. Do you work with rocks or mineral specimens?
+
+current kw> mineral
+next kw> nutrition; method: 1st hop - 2nd hop
+
+Tbot>> i work with the geology department at the university.
+Blender>>  Yes, I do. I work with sedimentary rocks and minerals.
+
+current kw> mineral
+next kw> nutrition; method: 1st hop - 2nd hop
+
+Tbot>> i love rocks. i am a nutritionist. i love to eat them.
+Blender>>  That's awesome! I'm a geologist as well. What do you do for fun?
+
+current kw> fun
+next kw> boredom; method: 1st hop - 2nd hop
+
+Tbot>> i like to read. i am studying to be a geology professor.
+Blender>>  I love to read as well! What is your favorite genre? Mine is science fiction.
+
+current kw> science
+next kw> archaic; method: 1st hop - 1st hop
+
+Tbot>> i am a bit of a librarian. i love the classics. i am also a lindsey stirling.
+Blender>>  Lindsey Stirling is a great singer. Do you have a favorite song?
+
+------------------------------------------------------------------------------------------------
+target> watch
+
+user>> global warming is severly affecting the economy
+
+current kw> warming
+next kw> nest; method: 1st hop - 2nd hop
+
+Tbot>> yes, i heard that too.
+Blender>>  Yes, it is.  It is causing a lot of damage to the environment.
+
+current kw> environment
+next kw> programming; method: 1st hop - 2nd hop
+
+Tbot>> i am a programmer, i can help you with that.
+Blender>>  That would be great.  Do you know anything about the effects of climate change on the environment?
+
+current kw> environment
+next kw> programming; method: 1st hop - 2nd hop
+
+Tbot>> i know a little about programming.
+Blender>>  I know a bit about it, but not a whole lot.  What do you know about it?
+
+current kw> bit
+next kw> strap; method: 1st hop - 1st hop
+
+Tbot>> i have not really been in the environment yet. i like to read books.
+Blender>>  What kind of books do you like?  I like science fiction and fantasy.
+
+current kw> science
+next kw> activity; method: 1st hop - 1st hop
+
+Tbot>> i like sci fi and horror. i am more into science fiction.
+Blender>>  Science fiction is a great genre.  Do you have any favorite authors?
+
+current kw> fiction
+next kw> movie; method: 1st hop - 1st hop
+
+Tbot>> no, but i love movies. what is your favorite?
+Blender>>  I don't really have a favorite, but I do like fantasy and sci-fi.
+
+current kw> favorite
+next kw> like; method: 1st hop - 1st hop
+
+Tbot>> i love to read and watch movies
+
+success; 7
+
+------------------------------------------------------------------------------------------------
+target> cooking
+
+user>> i am a swimmer
+
+current kw> swimmer
+next kw> duck; method: 1st hop - 2nd hop
+
+Tbot>> do you swim a lot?
+Blender>>  Yes, I love swimming. It is one of my favorite recreational activities.
+
+current kw> activity
+next kw> preparation; method: 1st hop - 1st hop
+
+Tbot>> do not know much about swimming. i like to eat pizza while watching movies.
+Blender>>  I love pizza, especially with extra cheese and pepperoni. What kind of pizza do you like?
+
+current kw> pizza
+next kw> food; method: 1st hop - 1st hop
+
+Tbot>> i like pizza with meat and meatballs
+Blender>>  Meatballs are my favorite toppings. Do you have a favorite topping?
+
+current kw> meatball
+next kw> plate; method: 1st hop - 1st hop
+
+Tbot>> i love cheese on my pizza, but i do not eat meat on my meatballs.
+Blender>>  I don't like meat either, but I do like vegetables and condiments on mine.
+
+current kw> condiment
+next kw> food; method: 1st hop - 1st hop
+
+Tbot>> i am really into vegetarian food, and i do like meat on mine.
+Blender>>  I like vegetarian pizza as well. I like that it can be topped with vegetables, meats, and other ingredients.
+
+current kw> meat
+next kw> stew; method: 1st hop - 1st hop
+
+Tbot>> i do not like meat, i love it. i am too busy with my family to eat italian food.
+Blender>>  Italian cuisine is one of the most popular in the world, so I can understand that.
+
+current kw> cuisine
+next kw> cooking; method: 1st hop - 1st hop
+
+Tbot>> what is italian cuisine? i am a chef, i like italian.
+Blender>>  It is a variety of dishes that originated in Naples, Italy. 
+
+current kw> dish
+next kw> saute; method: 1st hop - 1st hop
+
+Tbot>> i am a waitress and i love to cook. i love mexican food
+
+success; 8
+
+------------------------------------------------------------------------------------------------
+target> cooking
+
+user>> i live in usa
+
+current kw> live
+next kw> camp; method: 1st hop - 1st hop
+
+Tbot>> where do you live? i live in a rural area near camp.
+Blender>>  I live in the suburbs, but I've always wanted to move to the countryside.
+
+current kw> countryside
+next kw> camp; method: 1st hop - 1st hop
+
+Tbot>> that is cool, i am in a small town in new york, but i would like to move somewhere warmer.
+Blender>>  New York is a great place to live. It's the most populous city in the United States.
+
+------------------------------------------------------------------------------------------------
+target> terrorism
+
+user>> i live in usa
+
+current kw> live
+next kw> death; method: 1st hop - 1st hop
+
+Tbot>> i have a small town in ohio. i love to shop at american eagle.
+Blender>>  I love American Eagle! They have some of the best clothing and accessories out there.
+
+current kw> accessory
+next kw> criminal; method: 1st hop - 2nd hop
+
+Tbot>> i love it. i shop there all the time.
+Blender>>  I do too! I love their jeans, t-shirts, and sweatshirts.
+
+current kw> jean
+next kw> cotton; method: 1st hop
+
+Tbot>> i wear a lot of their clothing in my daily wear.
+Blender>>  That's great! They are a great American clothing retailer. They were founded in 1967 in Cincinnati, Ohio.
+
+current kw> clothing
+next kw> heat; method: 1st hop - 2nd hop
+
+Tbot>> i am a college student. i love to shop for fashion.
+Blender>>  Me too! It's a great place to find designer brands. Do you have a favorite brand?
+
+current kw> place
+next kw> nest; method: 1st hop - 1st hop
+
+Tbot>> i do not. i am more into the outdoors and hiking.
+Blender>>  I love to hike too! I like to go on day hikes in the mountains.
+
+------------------------------------------------------------------------------------------------
+target> war
+
+user>> i live in usa
+
+current kw> live
+next kw> action; method: 1st hop - 1st hop
+
+Tbot>> that is cool. i am a lifeguard, i love the water
+Blender>>  Do you have to be trained in CPR/AED first aid and water rescue?
+
+current kw> water
+next kw> oil; method: 1st hop - 1st hop
+
+Tbot>> no, its a common sense thing
+Blender>>  Yes, it is.  It is a very important thing to do.  Do you enjoy your job?
+
+current kw> job
+next kw> soldier; method: 1st hop - 1st hop
+
+Tbot>> i do enjoy it. i am also a soldier
+Blender>>  I do enjoy my job.  I have been doing it for a few years now.  What branch of the military are you in?
+
+current kw> military
+next kw> war; method: 1st hop - 1st hop
+
+Tbot>> i am in the army now. i am a soldier in the navy.
+Blender>>  That is great.  Thank you for your service.  How long have you been in the Navy?
+
+current kw> service
+next kw> military; method: 1st hop - 1st hop
+
+Tbot>> thank you. i have been in since i was a little girl. i am 30 now.
+Blender>>  You are very welcome.  Do you have any hobbies that you like to do in your spare time?
+
+current kw> time
+next kw> war; method: 1st hop - 1st hop
+
+Tbot>> i love to read. i also enjoy watching movies and tv shows about the military
+Blender>>  I like to read as well.  What is your favorite book?  I read a lot of Stephen King when I was in the Army.
+
+current kw> book
+next kw> argument; method: 1st hop - 1st hop
+
+Tbot>> i read alot of books about the army, but i do not read i have never been a reader.
+Blender>>  I have never read any of his books either.  I have read a few of his short stories though.
+
+current kw> story
+next kw> epic; method: 1st hop - 1st hop
+
+Tbot>> what do you like the movies? i am a big on my days off so i have not read many.
+------------------------------------------------------------------------------------------------
+target> china
+
+user>> i live in usa
+
+current kw> live
+next kw> dao; method: 1st hop - 1st hop
+
+Tbot>> i have been to usa, i have never been to dao though.
+Blender>>  I've never been either, but I've always wanted to go. It's the largest island in the Caribbean Sea.
+
+------------------------------------------------------------------------------------------------
+target> china
+
+user>> i live in usa
+
+current kw> usa
+next kw> country; method: 1st hop - 1st hop
+
+Tbot>> i am from the usa, what about you?
+Blender>>  I live in the United States as well. What part of the country do you live in?
+
+current kw> country
+next kw> china; method: 1st hop - 1st hop
+
+Tbot>> i live near the ocean, i love to swim
+Blender>>  I love swimming too! I live on the Gulf of Mexico near the Atlantic Ocean.
+
+current kw> Gulf
+next kw> Gulf; method: 1st hop
+
+Tbot>> i have never been there. i am a little bit outside of detroit.
+Blender>>  I have been to Detroit a couple of times. It is a great city.
+
+------------------------------------------------------------------------------------------------
+target> pacific
+
+user>> i live in usa
+
+current kw> usa
+next kw> atlantic; method: 1st hop - 2nd hop
+
+Tbot>> i live on the east coast. i am a lifeguard.
+Blender>>  Oh that's cool. Do you have to be trained in CPR/AED first aid?
+
+current kw> CPR
+next kw> CPR; method: 1st hop
+
+Tbot>> i am not sure. i am not familiar with that.
+Blender>>  It's a type of first aid that can be used in a variety of situations. 
+
+current kw> variety
+next kw> tokay; method: 1st hop - 1st hop
+
+Tbot>> that is cool. i am more into kayaking.
+Blender>>  Kayaking is a lot of fun. It's one of the most popular recreational activities in the world.
+
+current kw> world
+next kw> peace; method: 1st hop - 1st hop
+
+Tbot>> i have never tried it. i am just into peace and quiet.
+Blender>>  You should give it a try, it's a great way to get outdoors and exercise.
+
+current kw> try
+next kw> avoid; method: 1st hop - 1st hop
+
+Tbot>> i will have to. i have to get my allergies checked out first.
+Blender>>  That's a good idea. I hope you don't get sick. Kayaks are very low to the water.
+
+current kw> water
+next kw> ocean; method: 1st hop - 1st hop
+
+Tbot>> i do not think so. i am allergic to cats. do you have any pets?
+Blender>>  No I don't, but I would like to get a dog one day. How about you?
+
+------------------------------------------------------------------------------------------------
+target> WHO
+
+user>> i live in usa
+
+------------------------------------------------------------------------------------------------
+target> depression
+
+user>> i live in usa
+
+current kw> usa
+next kw> us; method: 1st hop - 1st hop
+
+Tbot>> i am from the us too. i am in college now
+Blender>>  What are you studying? I'm studying to be a dental hygienist.
+
+------------------------------------------------------------------------------------------------
+target> trade
+
+user>> i live in usa
+
+current kw> usa
+next kw> wheeler; method: 1st hop - 1st hop
+
+Tbot>> i am in us too, i drive a blue van.
+Blender>>  That's cool. Do you have any hobbies that you like to do in your spare time?
+
+current kw> hobby
+next kw> craft; method: 1st hop - 1st hop
+
+Tbot>> i love to play sports. what about you?
+Blender>>  I don't have much time for hobbies. I spend most of my time studying.
+
+current kw> hobby
+next kw> craft; method: 1st hop - 1st hop
+
+Tbot>> what kind of music do you like? i like country music.
+Blender>>  I like all kinds of music. What is your favorite genre of music to listen to?
+
+current kw> music
+next kw> pyrotechnics; method: 1st hop - 1st hop
+
+Tbot>> i like classical. i also like to read.
+Blender>>  I love classical music as well. Do you have a favorite composer or singer?
+
+current kw> music
+next kw> pyrotechnics; method: 1st hop - 1st hop
+
+Tbot>> i love the pyro classics. what is your favourite?
+Blender>>  My favorite is Beethoven. He is considered one of the most influential composers of all time.
+
+------------------------------------------------------------------------------------------------
+target> pasta
+
+user>> i live in usa
+
+current kw> usa
+next kw> money; method: 1st hop - 2nd hop
+
+Tbot>> i do not make much money, i am a stay at home mom.
+Blender>>  I'm sorry to hear that. Do you have any hobbies to keep you occupied?
+
+current kw> hobby
+next kw> past; method: 1st hop - 2nd hop
+
+Tbot>> i love to go to the beach and read. i also like to travel
+Blender>>  That sounds like a lot of fun. I wish I had the time to travel more. 
+
+current kw> fun
+next kw> salsa; method: 1st hop - 2nd hop
+
+Tbot>> yes, i do. i am really into food and love to cook, so i do not have a lot.
+Blender>>  I like to cook as well. What kind of food do you like to make the most?
+
+current kw> food
+next kw> pasta; method: 1st hop - 1st hop
+
+Tbot>> i like to bake and eat. i love to bake, i like to eat a lot.
+Blender>>  I enjoy baking as well, but I'm not very good at it. Do you have any hobbies?
+
+current kw> hobby
+next kw> past; method: 1st hop - 2nd hop
+
+Tbot>> yes, i love making cakes. i like cooking as well. i love baking pastries.
+Blender>>  I do too! I like baking sweets and cakes more than anything else. What is your favorite kind of pastry?
+
+current kw> pastry
+next kw> dough; method: 1st hop - 1st hop
+
+Tbot>> i love to cook, i love italian food and cooking.
+Blender>>  I love Italian cuisine as well! What's your favorite dish to make?
+
+current kw> dish
+next kw> pasta; method: 1st hop - 1st hop
+
+Tbot>> i like to cook pasta. i love to bake, but my favorite is italian. i make my own.
+
+success; 7
+
